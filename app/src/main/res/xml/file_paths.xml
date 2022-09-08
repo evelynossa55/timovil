@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path name="external_files" path="."/>
+    <external-path name="timovil_images" path="Android/data/com.cm.timovil2/files/Pictures/"/>
+    <!--<external-path name="timovil_apk" path="/mnt/sdcard/tmpActualizacion/tmp939281.apk"/>-->
+    <external-path name="timovil_apk" path="/storage/emulated/0/tmpActualizacion/tmp939281.apk"/>
+</paths>

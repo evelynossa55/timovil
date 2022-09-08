@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timovil="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_configurar"
+        android:title="@string/configurar"
+        android:titleCondensed="Config."
+        timovil:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/menu_actualizar_aplicacion"
+        android:title="@string/actualizar_aplicacion"
+        timovil:showAsAction="collapseActionView" />
+<!--
+    <item
+        android:id="@+id/menu_cierredia"
+        android:title="@string/cerrardia"
+        timovil:showAsAction="collapseActionView" />-->
+</menu>

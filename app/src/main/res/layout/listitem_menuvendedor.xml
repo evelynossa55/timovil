@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--modificacion de diseño realizada por Juan Sebastian Arenas Borja 21/09/2021-->
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:paddingBottom="5dp"
+    android:paddingHorizontal="2dp"
+    android:animateLayoutChanges="true"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_margin="40dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+
+            <LinearLayout
+                android:id="@+id/layout_colors"
+                android:layout_width="70sp"
+                android:layout_height="70sp"
+                android:layout_gravity="center"
+                android:padding="1dp"
+                android:animateLayoutChanges="true"
+                android:background="@drawable/backrground_items_recycler_blue"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_menu_item"
+                    android:layout_width="85dp"
+                    android:layout_gravity="center"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/menu_cargadatos" />
+            </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_menu"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="1dp"
+                android:layout_marginHorizontal="1dp"
+                android:textSize="15dp"
+                android:text="@string/lblAceptar"
+                android:textColor="@color/black"
+                app:fontFamily="sans-serif-medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:layout_marginBottom="50dp"
+        android:padding="16dp"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:id="@+id/layout_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/lblFecha"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:textColor="@color/blue3"
+                android:padding="1dp"
+                android:gravity="end"
+                android:textSize="25sp"
+                android:text="@string/fecha_may"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/lblClientName"
+                style="@style/LabelTitulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#f2f2f2"
+                android:padding="3dp"
+                android:text="@string/lblNombreCliente"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:layout_below="@+id/lblFecha"/>
+
+            <TextView
+                android:id="@+id/lblDatosCliente"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lblClientName"
+                android:padding="3dp"
+                android:text="@string/cliente" />
+
+            <TextView
+                android:id="@+id/lblTituloDetalle"
+                style="@style/LabelTitulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/lblDatosCliente"
+                android:background="#f2f2f2"
+                android:padding="3dp"
+                android:text="@string/lblDetalle"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/linearlayoutDetalle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lblTituloDetalle"
+                android:background="#cccccc"
+                android:minHeight="40dp"
+                android:orientation="vertical"
+                android:padding="3dp"
+                android:showDividers="end" />
+
+            <TextView
+                android:id="@+id/lblTituloResumen"
+                style="@style/LabelTitulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearlayoutDetalle"
+                android:background="#f2f2f2"
+                android:padding="3dp"
+                android:text="@string/total"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/lblResumen"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/lblTituloResumen"
+                android:padding="3dp"
+                android:text="@string/resumen" />
+
+            <TextView
+                android:id="@+id/txtFormasPago"
+                style="@style/LabelTitulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/lblResumen"
+                android:layout_gravity="center_vertical"
+                android:background="#f2f2f2"
+                android:padding="3dp"
+                android:text="@string/lblFormaPago"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/cboFormaDePago"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/txtFormasPago" />
+
+            <TextView
+                android:id="@+id/txtNroPedido"
+                style="@style/LabelTitulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/cboFormaDePago"
+                android:layout_gravity="center_vertical"
+                android:background="#f2f2f2"
+                android:padding="3dp"
+                android:text="@string/lblNroPedido"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:visibility="visible" />
+
+            <EditText
+                android:id="@+id/etNroPedido"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtNroPedido"
+                android:hint="@string/lblNroPedidoHin"
+                android:inputType="text"
+                android:padding="7dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/txtEntregador"
+                style="@style/LabelTitulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etNroPedido"
+                android:layout_gravity="center_vertical"
+                android:background="#f2f2f2"
+                android:padding="3dp"
+                android:text="@string/lblEntregador"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:visibility="visible" />
+
+            <Spinner
+                android:id="@+id/cboEntregadores"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/txtEntregador"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/lblTipoDocumento"
+                style="@style/LabelTitulo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/cboEntregadores"
+                android:layout_gravity="center_vertical"
+                android:background="#f2f2f2"
+                android:padding="3dp"
+                android:text="@string/lblTipoDocumento"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/cboTipoDocumento"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:layout_below="@+id/lblTipoDocumento" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="0dp"
+        android:background="#ddd"
+        android:baselineAligned="false"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:padding="2dp">
+
+
+        <ImageButton
+            android:id="@+id/mnuIngresarDetalle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_edit" />
+
+        <ImageButton
+            android:id="@+id/mnuImprimir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_save" />
+
+        <ImageButton
+            android:id="@+id/mnuIngresarComentario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_comment" />
+
+        <ImageButton
+            android:id="@+id/mnuVerCartera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_warning" />
+
+        <ImageButton
+            android:id="@+id/mnuVerUltimaFactura"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_history" />
+
+        <ImageButton
+            android:id="@+id/mnuNoVenta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/ic_thumb_down" />
+
+    </LinearLayout>
+
+</RelativeLayout>

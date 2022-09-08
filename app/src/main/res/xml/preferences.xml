@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/lbl_category_impresion">
+
+        <ListPreference
+            android:key="pref_print_type"
+            android:title="@string/lbl_tipo_impresora"
+            android:summary="@string/lbl_summary_tipo_impresora"
+            android:entries="@array/lst_tipos_impresora"
+            android:entryValues="@array/lst_values_tipos_impresora"
+            android:defaultValue="@string/lbl_default_tipo_impresora"
+            android:dialogTitle="@string/lbl_tipo_impresora"/>
+
+        <ListPreference
+            android:key="pref_print_pulgadas"
+            android:title="@string/lbl_pulgadas_impresora"
+            android:summary="@string/lbl_summary_pulgadas_impresora"
+            android:dialogTitle="@string/lbl_pulgadas_impresora"
+            android:defaultValue="@string/lbl_default_pulgadas_impresora"
+            android:entries="@array/lst_pulgadas_impresora"
+            android:entryValues="@array/lst_values_pulgadas_impresora"/>
+
+        <CheckBoxPreference
+            android:key="pref_partir_impresion"
+            android:title="@string/lbl_partir_impersion"
+            android:summary="@string/lbl_summary_partir_impresion"/>
+
+        <EditTextPreference
+            android:key="pref_lineas_por_envio"
+            android:title="@string/lbl_lineas_por_envio"
+            android:summary="@string/lbl_summary_lineas_por_envio"
+            android:dialogTitle="@string/lbl_lineas_por_envio"
+            android:dependency="pref_partir_impresion"
+            android:defaultValue="20"
+            android:inputType="number"/>
+
+        <EditTextPreference
+            android:key="pref_cantidad_impresiones"
+            android:title="@string/lbl_cantidad_impresiones"
+            android:summary="@string/lbl_summary_cantidad_impresiones"
+            android:defaultValue="1"
+            android:dialogTitle="@string/lbl_cantidad_impresiones"
+            android:inputType="number"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

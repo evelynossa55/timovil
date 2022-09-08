@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TabHost android:id="@android:id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TabWidget android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@android:id/tabs" />
+
+            <FrameLayout android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@android:id/tabcontent">
+
+                    <LinearLayout android:id="@+id/tab1"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            style="?android:attr/listSeparatorTextViewStyle"
+                            android:id="@+id/item_cartera_total"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:layout_gravity="center_horizontal"
+                            android:background="#ccc"
+                            android:padding="3dp"
+                            android:gravity="center_horizontal"
+                            android:textStyle="bold"/>
+
+                        <ListView
+                            android:id="@+id/ListCartera"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:divider="@android:drawable/divider_horizontal_dim_dark">
+                        </ListView>
+
+                    </LinearLayout>
+
+                    <LinearLayout android:id="@+id/tab2"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            style="?android:attr/listSeparatorTextViewStyle"
+                            android:id="@+id/item_remisiones_total"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:layout_gravity="center_horizontal"
+                            android:background="#ccc"
+                            android:padding="3dp"
+                            android:gravity="center_horizontal"
+                            android:textStyle="bold"/>
+
+                        <ListView
+                            android:id="@+id/ListRemisiones"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:divider="@android:drawable/divider_horizontal_dim_dark">
+                        </ListView>
+
+                    </LinearLayout>
+
+                <LinearLayout android:id="@+id/tab3"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        style="?android:attr/listSeparatorTextViewStyle"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:layout_gravity="center_horizontal"
+                        android:background="#ccc"
+                        android:padding="3dp"
+                        android:gravity="center_horizontal"
+                        android:textStyle="bold"
+                        android:text="@string/ventas_por_cliente"/>
+
+                    <TextView
+                        android:id="@+id/txt_ventas_mes"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="16dp"
+                        android:gravity="center"
+                        android:textSize="29sp"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="2dp"
+                        android:gravity="center"
+                        android:textSize="14sp"
+                        android:text="@string/ventas_totales"
+                        android:textStyle="bold"
+                        android:background="#ccc"/>
+
+                    <TextView
+                        android:id="@+id/txt_ventas_mes_ruta"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="16dp"
+                        android:gravity="center"
+                        android:textSize="29sp"/>
+
+                </LinearLayout>
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </TabHost>
+
+</LinearLayout>

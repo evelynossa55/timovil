@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lblMiMetaMensual">Mi meta mensual</string>
+    <string name="lblEstadoCargaDatos">Su estado actual es: </string>
+</resources>

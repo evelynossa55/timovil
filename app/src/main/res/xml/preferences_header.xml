@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<preference-headers
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <header
+        android:fragment="com.cm.timovil2.pref.PrintPreferencesFragment"
+        android:title="Impresión"
+        android:summary="Ajustes de impresión" />
+
+    <header
+        android:fragment="com.cm.timovil2.pref.ScannerPreferencesFragment"
+        android:title="Código de barras"
+        android:summary="Ajustes de escaner para código de barras" />
+
+</preference-headers>

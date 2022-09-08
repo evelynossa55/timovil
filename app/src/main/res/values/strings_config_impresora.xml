@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="strBuscarImpresora">Buscar impresora</string>
+    <string name="strGuardarImpresora">Guardar</string>
+    <string name="strBuscandoImpresora">Buscando dispositivos&#8230;</string>
+    <string name="strDetenerBusqueda">Detener búsqueda</string>
+    <string-array name="array_tipos_impresora">
+        <item >GENERICA</item>
+        <item >CITIZEN</item>
+        <item >ZEBRA</item>
+        <item >RPP</item>
+    </string-array>
+
+    <string name="strTipoImpresora">TIPO IMPRESORA</string>
+    <string name="strSeleccionaLaImpresora">SELECCIONE LA IMPRESORA</string>
+
+    <string name="lbl_no_imprimir">Su configuración actual no le permite usar la impresora</string>
+</resources>

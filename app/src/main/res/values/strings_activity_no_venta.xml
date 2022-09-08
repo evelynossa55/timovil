@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_venta_lbl_motivo">Motivo</string>
+    <string name="no_venta_lbl_otro_motivo">Otro</string>
+    <string name="no_venta_lbl_descripion">Descripción</string>
+    <string name="no_venta_lbl_guardar_no_venta">Guardar</string>
+</resources>

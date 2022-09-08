@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="8dp"
+    android:minHeight="110dp"
+    card_view:cardCornerRadius="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/lblRazonSocial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/blue3"
+            android:paddingEnd="5dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="5dp"
+            android:paddingStart="6dp"
+            android:text="@string/lblrazonsocial"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="75dp"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="6dp"
+                    android:text="Negocio: "
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#556"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/lblNegocio"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="6dp"
+                    android:text="Nombre del negocio"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#556"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="75dp"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="6dp"
+                    android:text="Nit/CC: "
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#556"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/lblIdentificacion"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="6dp"
+                    android:text="10171689456"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#556"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="75dp"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="6dp"
+                    android:text="Direccion: "
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#556"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/lblDireccion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="6dp"
+                    android:text="Calle 23 # 23 - 45 Int 120"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#556"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="75dp"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="6dp"
+                    android:text="Telefono:"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#556"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/lblTelefono"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="6dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="6dp"
+                    android:text="3233456213"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:textColor="#556"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

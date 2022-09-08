@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timovil="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_menu_opciones"
+        android:title=""
+        timovil:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/mnuDescargarFacturasPendientes"
+               android:icon="@drawable/ic_descargar"
+                android:title="@string/mnu_descargar_pendientes"
+                timovil:showAsAction="withText" />
+            <item
+                android:id="@+id/mnuEliminarFacturas"
+                android:title="@string/mnuEliminar"
+                android:icon="@drawable/ic_eliminar"
+                timovil:showAsAction="withText" />
+        </menu>
+    </item>
+
+</menu>

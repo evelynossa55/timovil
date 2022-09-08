@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:id="@+id/layout_factura">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/num_nota_may"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/tv_numero_nota"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/num_nota_may" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/lblDetalleNotaCredito"
+            style="@style/LabelTitulo" />
+
+        <LinearLayout
+            android:id="@+id/linearlayoutDetalleNotaCredito"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#cccccc"
+            android:padding="3dp"
+            android:orientation="vertical"
+            android:minHeight="20dp"
+            android:showDividers="end"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/total"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/tv_resumen_nota"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/resumen" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/num_fac_may"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/tv_numero_factura"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/num_fac_may" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/lblNombreCliente"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/tv_datos_cliente"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/cliente" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/lblDetalle"
+            style="@style/LabelTitulo" />
+
+        <LinearLayout
+            android:id="@+id/linearlayoutDetalleFactura"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#cccccc"
+            android:padding="3dp"
+            android:orientation="vertical"
+            android:minHeight="20dp"
+            android:showDividers="end"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/total"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/tv_resumen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/resumen" />
+
+    </LinearLayout>
+</ScrollView>

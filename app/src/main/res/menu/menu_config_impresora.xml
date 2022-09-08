@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timovil="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mnuBuscarImpresora"
+        timovil:showAsAction="ifRoom|withText"
+        android:title="@string/strBuscarImpresora"
+       	android:icon="@android:drawable/ic_menu_search">
+    </item>
+    <item android:id="@+id/mnuGuardarImpresora"
+        timovil:showAsAction="ifRoom|withText"
+        android:title="@string/strGuardarImpresora"
+        android:icon="@android:drawable/ic_menu_save"/>
+    <!--<item android:id="@+id/mnuprueba"
+        android:title="@string/strGuardarImpresora"></item>-->
+</menu>

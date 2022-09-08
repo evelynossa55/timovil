@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".front.ActivityLogin"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/config_impresora_form"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="@string/strTipoImpresora"
+            android:textColor="#31b6e7"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:layout_marginTop="7dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Spinner
+            android:id="@+id/spTipoImpresora"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:entries="@array/array_tipos_impresora"
+            android:prompt="@string/app_name"
+            android:padding="3dp"
+            tools:listitem="@android:layout/simple_spinner_item" />
+
+
+        <TextView
+            android:id="@+id/lblTituloSeleccionImpresora"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="@string/strSeleccionaLaImpresora"
+            android:textColor="#31b6e7"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:layout_marginTop="7dp" />
+
+        <ListView
+            android:id="@+id/lsvDispositivos"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.23"
+            tools:listitem="@android:layout/simple_list_item_single_choice"
+            android:background="#e1efea" />
+
+    </LinearLayout>
+
+    <!-- Search progress -->
+
+    <RelativeLayout
+        android:id="@+id/search_status"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@+id/login_status_message"/>
+
+        <TextView
+            android:id="@+id/login_status_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="@string/strBuscandoImpresora"
+            android:layout_above="@+id/lblDetalleProgreso"
+            android:layout_centerHorizontal="true"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/lblDetalleProgreso"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="10dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Button
+            android:layout_below="@+id/lblDetalleProgreso"
+            android:id="@+id/btnCancelarBusqueda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:drawableLeft="@android:drawable/ic_menu_close_clear_cancel"
+            android:drawableStart="@android:drawable/ic_menu_close_clear_cancel"
+            android:text="@string/strDetenerBusqueda"
+            android:background="@drawable/button_pressed"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
+    </RelativeLayout>
+</LinearLayout>

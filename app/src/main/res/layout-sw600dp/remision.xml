@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/fecha_remision_may"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/lblFechaRemision"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/fecha" />
+
+        <TextView
+            android:id="@+id/lblCliente"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/lblNombreCliente"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/lblDatosCliente"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/cliente" />
+
+        <TextView
+            android:id="@+id/lblFormaPago"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/forma_pago_may"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/lblDatoFormaPago"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp" />
+
+        <TextView
+            android:id="@+id/lblComentario"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/comentario_may"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/lblDatoComentario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/sin_comentario" />
+
+        <TextView
+            android:id="@+id/lblTituloDetalle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/lblDetalle"
+            style="@style/LabelTitulo" />
+
+        <LinearLayout
+            android:id="@+id/linearlayoutDetalle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#cccccc"
+            android:padding="3dp"
+            android:orientation="vertical"
+            android:minHeight="20dp"
+            android:showDividers=""/>
+
+        <TextView
+            android:id="@+id/lblTituloResumen"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/total"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/lblResumen"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/resumen" />
+
+        <TextView
+            android:id="@+id/txtNroPedido"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/lblNroPedido"
+            android:layout_gravity="center_vertical"
+            style="@style/LabelTitulo"/>
+
+        <TextView
+            android:id="@+id/tvNroPedido"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="@string/lblNroPedidoHin"/>
+    </LinearLayout>
+
+</ScrollView>
+

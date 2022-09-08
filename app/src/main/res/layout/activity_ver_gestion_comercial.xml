@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/lblNombreCliente"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/text_view_cliente"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/cliente" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/contacto_may"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/text_view_contacto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/contacto_may"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/telefono_contacto_may"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/text_view_tel_contacto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/telefono_contacto_may"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/comentario_may"
+            style="@style/LabelTitulo" />
+
+        <TextView
+            android:id="@+id/text_view_comentario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="@string/comentario_may"/>
+
+        <TextView
+            android:id="@+id/text_view_tomar_foto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:text="@string/registro_fotografico_may"
+            style="@style/LabelTitulo"
+            android:drawableRight="@android:drawable/ic_menu_camera"
+            android:drawableEnd="@android:drawable/ic_menu_camera"
+            android:visibility="visible"/>
+
+        <RelativeLayout
+            android:id="@+id/img_slideshow_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:visibility="visible">
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/view_pager"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:minHeight="70dp"
+                android:foregroundGravity="center_horizontal" />
+
+            <com.cm.timovil2.bl.utilities.CirclePageIndicator
+                android:id="@+id/indicator"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view_pager"
+                android:padding="10dip" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">TiMovil</string>
+    <string name="lblrazonsocial">Razon Social</string>
+    <string name="lblguardar">Guardar</string>
+    <string name="lblIdCliente">ID Cliente</string>
+    <string name="lblAceptar">Aceptar</string>
+    <string name="lblNumeroResolucion">Resolución</string>
+    <string name="lblConfigurarRuta">Configurar ruta</string>
+    <string name="tituloMenuVendedor">Menú vendedor</string>
+    <string name="tituloConfiguracionRuta">Configuración ruta</string>
+    <string name="tituloCargaDatos">Carga de datos</string>
+    <string name="lblFacturaInicial">Factura inicial</string>
+    <string name="lblFacturaFinal">Factura final</string>
+    <string name="lblFechaResolucion">Fecha</string>
+    <string name="lblPrefijo">Prefijo</string>
+    <string name="lblSiguienteFactura">Siguiente factura</string>
+    <string name="lblCodigo">Código</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblNombreCliente">CLIENTE</string>
+    <string name="lblDetalle">DETALLE</string>
+    <string name="lblDetalleNotaCredito">DETALLE NOTA CREDITO</string>
+    <string name="lblCantidad">Cantidad</string>
+    <string name="lblDevoluciones">Devoluciones</string>
+    <string name="lblRotaciones">Rotaciones</string>
+    <string name="lblProducto">Producto:</string>
+    <string name="lblVolverAlInicio">Volver al inicio</string>
+    <string name="lblFormaPago">FORMA DE PAGO</string>
+    <string name="lblNroPedido">NÚMERO ORDEN</string>
+    <string name="lblEntregador">ENTREGADOR</string>
+    <string name="lblNroPedidoHin">Ingrese el número de pedido</string>
+    <string name="lblValorUnitario">Valor unitario</string>
+    <string name="lblDescuento">Descuento</string>
+    <string name="lblIva">Iva</string>
+    <string name="lblSubtotal">Sub total</string>
+    <string name="lblTotal">Total</string>
+    <string name="mnuImprimir">Imprimir</string>
+    <string name="mnuUltimaFactura">Usar pedido</string>
+    <string name="lblIngreseFiltro">Ingrese el filtro</string>
+    <string name="strConfiguracionImpresora">Configuración impresora</string>
+    <string name="lblIpoConsumo">Ipo Consumo</string>
+    <string name="lblComentarioFactura">Comentario Factura</string>
+    <string name="lblTipoDocumento">TIPO DOCUMENTO</string>
+    <string-array name="array_dias">
+        <item>Todos los días </item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+    <string name="lblConfirmarContrasena">Por favor ingrese su clave de administrador</string>
+    <string name="lblResumenDiario">Resumen facturación</string>
+    <string name="lblNumeroFactura">Número de la factura: </string>
+    <string name="lblNumeroRemision">Número de la remision: </string>
+    <string name="lblFechaVenta">Fecha de la venta: </string>
+    <string name="lblFechaRemision">Fecha de la Remision: </string>
+    <string name="lblSeleccionarBodega">Por favor seleccione una bodega</string>
+    <string name="lblRemision">Remisiones</string>
+    <string name="lblFiltroClientes">\tIdentificación, razón social, etc.</string>
+    <string name="lblFiltroProductos">\tCódigo, nombre o bodega</string>
+    <string name="lblFiltroCreditos">\Codigo,nombre o apellido</string>
+    <!-- BTPrinterDemo -->
+    <string name="mnu_descargar_pendientes">Descargar pendientes</string>
+    <string name="mnuResumen">Resumen</string>
+    <string name="mnuImprimirTodas">Imprimir todas</string>
+    <string name="mnuEliminar">Eliminar todo</string>
+    <string name="mnuVerificarFacturas">Verificar facturas</string>
+    <string name="mnuCerrarDia">Cerrar día</string>
+    <string name="cliente">Cliente</string>
+    <string name="total">TOTAL</string>
+    <string name="forma_de_pago">Forma de pago</string>
+    <string name="tipo_documento">tipo documento</string>
+    <string name="resumen">Resumen</string>
+    <string name="ver_resumen">Ver resumen</string>
+    <string name="fecha_hasta">Fecha hasta</string>
+    <string name="fecha_desde">Fecha desde</string>
+    <string name="seleccione_un_rango_de_fechas">Seleccione un rango de fechas</string>
+    <string name="descargar_pendientes">Descargar pendientes</string>
+    <string name="eliminar">Eliminar todo</string>
+    <string name="cargar_todo">Cargar todo</string>
+    <string name="cargar_clientes">Cargar clientes</string>
+    <string name="cargar_productos">Cargar productos</string>
+    <string name="sin_comentario">Sin comentario</string>
+    <string name="comentario_may">COMENTARIO</string>
+    <string name="forma_pago_may">FORMA PAGO</string>
+    <string name="num_fac_may">NUMERO DE FACTURA</string>
+    <string name="num_nota_may">NUMERO NOTA CREDITO</string>
+    <string name="fecha">Fecha</string>
+    <string name="fecha_remision_may">FECHA REMISIÓN</string>
+    <string name="configurar">Configurar</string>
+    <string name="actualizar_aplicacion">Actualizar app</string>
+    <string name="cerrardia">Cerrar Día</string>
+    <string name="capturar">Capturar</string>
+    <string name="contacto_may">CONTACTO</string>
+    <string name="nombre_del_contacto">Nombre del contacto</string>
+    <string name="telefono_contacto_may">TELEFONO CONTACTO</string>
+    <string name="telefono_del_contacto">Teléfono del contacto</string>
+    <string name="registro_fotografico_may">REGISTRO FOTOGRÁFICO</string>
+    <string name="ventas_por_cliente">VENTAS POR CLIENTE</string>
+    <string name="ventas_totales">VENTAS TOTALES</string>
+    <string name="descuento_porcentaje">Descuento %</string>
+    <string name="pos">POS</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="historial">Historial</string>
+    <string name="no_aplica">No Aplica</string>
+    <string name="fecha_may">FECHA</string>
+    <string name="notas_credito_por_devolucion">Notas crédito por devolución</string>
+    <string name="cargando">Cargando</string>
+    <string name="title_activity_settings">Configuraciones</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="codigo_barras">Código barras</string>
+
+
+
+    <!-- Titulos menú desplegable-->
+    <string name="salir">Salir</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="impresoras">Impresoras</string>
+    <string name="titulo_menu">Menú</string>
+
+
+    <!--Data wedge Zebra devices-->
+    <string name="activity_intent_filter_action">com.cm.timovil2.ACTION</string>
+    <string name="activity_action_from_service">com.cm.timovil2.service.ACTION</string>
+    <string name="datawedge_intent_key_source">com.symbol.datawedge.source</string>
+    <string name="datawedge_intent_key_label_type">com.symbol.datawedge.label_type</string>
+    <string name="datawedge_intent_key_data">com.symbol.datawedge.data_string</string>
+    <string name="send_id"> Enviar ID</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

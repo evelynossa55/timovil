@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in_register"><b>Ingresar</b></string>
+
+</resources>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/seleccione_un_rango_de_fechas"
+            android:gravity="center_horizontal"
+            android:padding="7dp"
+            android:background="@color/gray"/>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="7dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/fecha_desde"
+                    android:padding="8dp"
+                    android:textColor="#000"/>
+
+                <TextView
+                    android:id="@+id/lblFechaDesde"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#666"
+                    android:hint="@string/fecha_desde"
+                    android:layout_weight="1"
+                    android:padding="10dp"
+                    android:enabled="true"
+                    android:background="@drawable/backgroun_border_radius"/>
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/fecha_hasta"
+                    android:padding="10dp"
+                    android:textColor="#000"/>
+
+                <TextView
+                    android:id="@+id/lblFechaHasta"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#666"
+                    android:layout_weight="1"
+                    android:hint="@string/fecha_hasta"
+                    android:padding="10dp"
+                    android:enabled="true"
+                    android:background="@drawable/backgroun_border_radius"/>
+
+            </TableRow>
+
+            <Button
+                android:id="@+id/btn_ver_resumen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="7dp"
+                android:text="@string/ver_resumen"
+                android:background="@drawable/button_pressed"
+                android:textColor="#fff"
+                android:textStyle="bold"/>
+
+        </TableLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="@string/lblResumenDiario"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblDetalleResumenDiario"
+            android:padding="10sp"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item3"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblRemisiones"
+            android:padding="5sp"
+            android:text="@string/lblRemision"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item4"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblDetalleRemision"
+            android:padding="10sp"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item2"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblNotasCreditoPorDevol"
+            android:padding="5sp"
+            android:text="@string/notas_credito_por_devolucion"
+            android:textStyle="bold"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item8"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblDetalleNotaCreditoPorDevolucion"
+            android:padding="10sp"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item9"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblResumenDiario"
+            android:padding="10sp"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item5"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblResumenRemisionesDiario"
+            android:padding="10sp"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item7"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblResumenNotasCreditoFacturaPorDevolucion"
+            android:padding="10sp"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item10"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblResumenRemision"
+            android:padding="10sp"
+            android:textSize="17sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/separator_item6"
+            android:visibility="visible"
+            android:background="#333333" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblResumenCantidades"
+            android:padding="10sp"
+            android:textSize="17sp" />
+
+    </LinearLayout>
+</ScrollView>

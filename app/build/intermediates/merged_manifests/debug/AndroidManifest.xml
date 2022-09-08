@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cm.timovil2"
+    android:versionCode="138"
+    android:versionName="V5.6.9" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="29" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+
+    <application
+        android:name="com.cm.timovil2.bl.app.App"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/icon_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="false"
+        android:theme="@style/AppTheme"
+        android:uiOptions="splitActionBarWhenNarrow"
+        android:usesCleartextTraffic="true"
+        android:windowSoftInputMode="adjustResize|stateVisible" >
+        <activity
+            android:name="com.cm.timovil2.front.ActivityLogin"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityUltimaFactura"
+            android:label="Pedido previo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityUltimaRemision"
+            android:label="Pedido previo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityConfigRuta"
+            android:label="@string/tituloConfiguracionRuta"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityMenuVendedor"
+            android:label="@string/tituloMenuVendedor"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityConfigImpresora"
+            android:label="@string/strConfiguracionImpresora"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityRutero"
+            android:screenOrientation="portrait"
+            android:uiOptions="none" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityInventario"
+            android:label="Inventario"
+            android:noHistory="false"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityFacturacion"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityCrearRemision"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityRemisiones"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityRemision"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityRemisiones" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityDetalleFacturacion"
+            android:label="@string/str_titulo_detalle_facturacion_activity"
+            android:screenOrientation="portrait"
+            android:uiOptions="none" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityCargaDatos"
+            android:label="@string/tituloCargaDatos"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityFiltroProducto"
+            android:label="@string/str_buscar_producto"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityFacturas"
+            android:label="Facturas"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityCreditos"
+            android:label="Créditos"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityRegistroAbono"
+            android:label="Ingresar abono"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityComentarioFactura"
+            android:theme="@style/DialogTranslucentTheme" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityCartera"
+            android:label="Cartera"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityFactura"
+            android:label="Factura"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityFacturas" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityConfirmarPass"
+            android:label="Admin"
+            android:theme="@style/DialogTranslucentTheme" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivitySeleccionarBodega"
+            android:label="Bodegas"
+            android:theme="@style/DialogTranslucentTheme" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityResumenDiario"
+            android:label="Cuadre diario"
+            android:noHistory="false"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityFacturas" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.vehiculos.GastosVehiculoActivity"
+            android:label="Gastos"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.vehiculos.IdentificarEmpleadoActivity" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.vehiculos.IdentificarEmpleadoActivity"
+            android:label="Gastos"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityNoVenta"
+            android:label="No venta"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityGestionComercial"
+            android:label="Gestión comercial"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.cm.timovil2.front.ActivityGestionesComerciales"
+            android:label="Gestiones comerciales"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityVerGestionComercial"
+            android:label="Gestiones comerciales"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityGestionesComerciales" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityCamera"
+            android:label="Camara"
+            android:screenOrientation="landscape" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityGestionesComerciales" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityPedidos"
+            android:label="Pedidos"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityNoVentas"
+            android:label="No ventas"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityRuteroAsesor"
+            android:label="Rutero"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityHistorialGestionesComerciales"
+            android:label="Rutero"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityRuteroAsesor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityNotasCredito"
+            android:label="Notas Crédito"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityRuteroAsesor" />
+        </activity>
+        <activity
+            android:name="com.cm.timovil2.front.ActivityNotaCredito"
+            android:label="Nota Crédito"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityRuteroAsesor" />
+        </activity>
+
+        <service android:name="com.cm.timovil2.bl.utilities.ServiceSincrofacturas" />
+
+        <receiver
+            android:name="com.cm.timovil2.bl.utilities.ReceiverSincrofacturas"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.cm.timovil.SINCRO_REPORT" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.cm.timovil2.bl.utilities.ControlImeiService" />
+        <service android:name="com.cm.timovil2.bl.utilities.ServiceMonitorFacturacion" />
+        <service android:name="com.cm.timovil2.bl.utilities.ServicePedidosCallcenter" />
+        <service android:name="com.cm.timovil2.bl.printers.btservice.BtService" />
+        <service
+            android:name="com.cm.timovil2.location_service.LocationService"
+            android:exported="false"
+            android:label="Location service"
+            android:process=":location_service" />
+        <service
+            android:name="com.cm.timovil2.location_service.LocationJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <receiver
+            android:name="com.cm.timovil2.location_service.AlarmReceiverTimovil"
+            android:process=":location_service" />
+        <receiver
+            android:name="com.cm.timovil2.location_service.LocationActiveReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.cm.timovil2.location_service.LOCATION_ACTIVE" />
+            </intent-filter>
+        </receiver>
+        <!--
+        <service android:name="gcm.TiMovil_GCM_Service" />
+        <receiver
+            android:name="gcm.TiMovil_GCM_Receiver"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <category android:name="com.cm.timovil" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        -->
+        <provider
+            android:name="com.cm.timovil2.bl.utilities.GenericFileProvider"
+            android:authorities="com.cm.timovil2.com.cm.timovil2.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider> <!-- -FABRIC -->
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="c305d853f87123d83c5811e18b55a06f3e442f9d" />
+
+        <activity
+            android:name="com.cm.timovil2.pref.Configuraciones"
+            android:label="@string/title_activity_settings" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+        </activity>
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <provider
+            android:name="com.crashlytics.android.CrashlyticsInitProvider"
+            android:authorities="com.cm.timovil2.crashlyticsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/lbl_category_scanner">
+
+        <ListPreference
+            android:key="pref_scanner_type"
+            android:title="@string/lbl_tipo_escaner"
+            android:summary="@string/lbl_summary_tipo_escaner"
+            android:entries="@array/lst_tipos_escaner"
+            android:entryValues="@array/lst_values_tipos_escaner"
+            android:defaultValue="@string/lbl_default_tipo_escaner"
+            android:dialogTitle="@string/lbl_tipo_impresora"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

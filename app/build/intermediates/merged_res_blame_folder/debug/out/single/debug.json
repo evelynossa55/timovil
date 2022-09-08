@@ -1,0 +1,1166 @@
+[
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_recylcer.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\background_recylcer.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_noventas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_noventas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_actualizar_rutero_asesor.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_actualizar_rutero_asesor.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_round_check_circle_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\round_check_circle_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_notacredito.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_notacredito.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_registro_abono_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_registro_abono_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_round_check_circle_outline_white_24.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\round_check_circle_outline_white_24.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_rutero.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_rutero.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_timovil_logo_app.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\timovil_logo_app.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_menu_vendedor.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\fondo_menu_vendedor.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_factura.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_factura.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_round_check_circle_outline_white_24.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\round_check_circle_outline_white_24.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_data_sync.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_remisiones.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_remisiones.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_history.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_history.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_save.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_round_keyboard_arrow_up_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\round_keyboard_arrow_up_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_cargadatos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_cargadatos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wsp.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\wsp.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_rutero.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_rutero.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_wsp.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\wsp.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_vp_image.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\vp_image.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_impresora.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_impresora.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_thumb_down.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_ajustes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_ajustes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_pedidoslogistica.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_pedidoslogistica.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icono_factura_anulada.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\icono_factura_anulada.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_personajes_login_app2.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\personajes_login_app2.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_gestiones_comerciales.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\gestiones_comerciales.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo_app.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\logo_app.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_descargar.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_descargar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_factura_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\factura_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_remisiones.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_remisiones.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_history.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_history.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_ventasmes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_ventasmes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_facturas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_facturas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_lista_item_noventa.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\lista_item_noventa.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_round_check_circle_white_18.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\round_check_circle_white_18.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_impresora.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_impresora.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_impresora.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_impresora.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_round_check_circle_white_18.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\round_check_circle_white_18.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backrground_items_recycler_blue.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\backrground_items_recycler_blue.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_comment.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\ic_comment.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_round_keyboard_arrow_up_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\round_keyboard_arrow_up_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_inventario.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_inventario.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_no_venta.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_no_venta.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_inventario.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_inventario.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_inventario.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_inventario.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_encabezado.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\list_encabezado.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_rutero.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_rutero.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_round_control_camera_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\round_control_camera_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_notascredito.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_notascredito.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_inventario.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_inventario.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_gastovehiculo.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_gastovehiculo.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_round_check_circle_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\round_check_circle_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_thumb_down.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\ic_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_notascredito.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_notascredito.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_round_check_circle_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\round_check_circle_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gestion_comercial.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_gestion_comercial.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_ajustes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_ajustes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_gastovehiculo.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_gastovehiculo.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_ventasmes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_ventasmes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_cargadatos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_cargadatos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_remision.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout-sw600dp\\remision.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_facturas.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\facturas.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_rutero.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_rutero.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_round_control_camera_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\round_control_camera_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_creditos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_creditos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_section_divider_holo_light.9.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\list_section_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_ingreso_detalle_factura.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\ingreso_detalle_factura.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_remisiones.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_remisiones.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_inventario.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_inventario.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_comment.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_comment.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tendero_menu2.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\tendero_menu2.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icono_factura_pendiente.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\icono_factura_pendiente.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_round_control_camera_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\round_control_camera_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_round_check_circle_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\round_check_circle_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_notas_credito.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_notas_credito.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_round_keyboard_arrow_up_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\round_keyboard_arrow_up_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icono_configuracion.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\icono_configuracion.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_creditos.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_creditos.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_backtotop.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_backtotop.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_ajustes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_ajustes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_notascredito.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_notascredito.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_impresora.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_impresora.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_ajustes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_ajustes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_carga_datos.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\carga_datos.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_cargadatos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_cargadatos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_resumen.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_resumen.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_wsp.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\wsp.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_facturas.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_facturas.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_round_check_circle_white_18.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\round_check_circle_white_18.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_cartera_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\cartera_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_remision_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout-sw600dp\\remision_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_footer.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\list_footer.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_warning.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_remisiones.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_remisiones.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icono_factura_descargada.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\icono_factura_descargada.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_gestiones_comerciales.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_gestiones_comerciales.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eliminar.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_eliminar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_section_divider_holo_light.9.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\list_section_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_round_control_camera_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\round_control_camera_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_login.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icono_factura_anulada.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\icono_factura_anulada.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_remision.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_remision.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_config_impresora.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_config_impresora.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_facturas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_facturas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_remisiones.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_remisiones.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_menuvendedor.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_menuvendedor.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_btn_search.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\ic_btn_search.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_facturacion.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\facturacion.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroun_border_radius.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\backgroun_border_radius.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_remision.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\remision.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_noventas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_noventas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_cargadatos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_cargadatos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_actualizar.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_actualizar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_notascredito.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_notascredito.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_cargadatos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_cargadatos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu_vendedor.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_menu_vendedor.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_history.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\ic_history.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_filtro_productos.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\filtro_productos.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_facturacion.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout-sw600dp\\facturacion.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icono_factura_pendiente.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\icono_factura_pendiente.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_no_ventas.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_no_ventas.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_launcher.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\icon_launcher.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_facturas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_facturas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_confirmar_pass_admin.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\confirmar_pass_admin.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_configuracion_impresora.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\configuracion_impresora.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backrground_items_recycler_green.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\backrground_items_recycler_green.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_gestiones_comerciales.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_gestiones_comerciales.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_facturas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_facturas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icono_factura_descargada.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\icono_factura_descargada.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_actualizar_pedidos.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_actualizar_pedidos.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_boton_buscarfacturas.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_boton_buscarfacturas.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_noventas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_noventas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_app.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\logo_app.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_btn_search.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_btn_search.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_wsp.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\wsp.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_wsp.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\wsp.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_notascredito.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_notascredito.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_noventas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_noventas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_lista_item.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\lista_item.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_noventas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_noventas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_cliente.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_cliente.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_item_section.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listview_item_section.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_ajustes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_ajustes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_text.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\spinner_text.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_history.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_history.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_ventasmes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_ventasmes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_remisiones.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_remisiones.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_wsp.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\wsp.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_pedido_callcenter.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\list_item_pedido_callcenter.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_ventasmes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_ventasmes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_productos.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_productos.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_recylcer_isotipo.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\background_recylcer_isotipo.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notas_credito.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_notas_credito.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_inventario.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\inventario.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_detalle_facturacion_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_detalle_facturacion_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_pedidoslogistica.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_pedidoslogistica.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_comment.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_comment.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_comment.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_comment.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_resumen_diario.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_resumen_diario.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_spinner_text.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout-sw600dp\\spinner_text.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_gastovehiculo.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_gastovehiculo.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_ultima_factura_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\ultima_factura_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_app.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\logo_app.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_resumen_diario_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\resumen_diario_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_rutero.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_rutero.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_gastos_vehiculo.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout-sw600dp\\gastos_vehiculo.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_round_check_circle_white_18.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\round_check_circle_white_18.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_facturas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_facturas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icono_actualizar.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\icono_actualizar.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_pedidoslogistica.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_pedidoslogistica.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_creditos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_creditos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_remision_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\remision_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_toolbar.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\drawer_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_ultima_remision_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\ultima_remision_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_border_radius_et.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\background_border_radius_et.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_identificar_empleado_vehiculo.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\identificar_empleado_vehiculo.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_round_check_circle_outline_white_24.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\round_check_circle_outline_white_24.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_noventas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_noventas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_pedidoslogistica.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_pedidoslogistica.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_pedido_callcenter.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\pedido_callcenter.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_thumb_down.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icono_factura_pendiente.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\icono_factura_pendiente.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_crear_gestion_comercial.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_crear_gestion_comercial.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_remisiones.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_remisiones.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_remisiones.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\remisiones.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_round_check_circle_white_18.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\round_check_circle_white_18.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_opciones.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_menu_opciones.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_warning.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_warning.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_thumb_down.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_section_divider_holo_light.9.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\list_section_divider_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_creditos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_creditos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_notascredito.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_notascredito.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_navigationview.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\fondo_navigationview.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_salir.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_salir.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_warning.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_warning.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_impresora.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_impresora.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_ultima_factura.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_ultima_factura.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_round_keyboard_arrow_up_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\round_keyboard_arrow_up_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nota_credito.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_nota_credito.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_cargadatos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_cargadatos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rutero.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_rutero.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_thumb_down.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_botones_login.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\background_botones_login.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_item_entry.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listview_item_entry.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_black_24dp.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_spinner_dropdown.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\actionbar_spinner_dropdown.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_history.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_history.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_round_check_circle_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\round_check_circle_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_comment.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_comment.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_round_check_circle_outline_white_24.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\round_check_circle_outline_white_24.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_history.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_history.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_warning.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_rutero.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_rutero.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_verificar.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_verificar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_isotipo_zibor.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\isotipo_zibor.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_header.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_inventario.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\listitem_inventario.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_creditos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_creditos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icono_factura_descargada.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\icono_factura_descargada.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_launcher.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\icon_launcher.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_comentario_factura.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\comentario_factura.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_imprimir.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\ic_imprimir.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_creditos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_creditos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_creditos.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_creditos.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_gastovehiculo.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_gastovehiculo.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_warning.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_warning.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_header.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\preferences_header.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_ventasmes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_ventasmes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo_login.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\fondo_login.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_pedidoslogistica.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_pedidoslogistica.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_gastos_vehiculo.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\gastos_vehiculo.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_comment.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_comment.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_ultima_remision.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\menu\\menu_ultima_remision.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_edit.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_warning.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\ic_warning.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_round_check_circle_outline_white_24.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\round_check_circle_outline_white_24.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vehiculo_fondo.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\vehiculo_fondo.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_seleccionar_bodega.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\seleccionar_bodega.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ver_gestion_comercial.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\activity_ver_gestion_comercial.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu_inventario.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\menu_inventario.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_bar.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_impresora.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_impresora.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_transition.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\anim\\fade_transition.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_registro_abono_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\registro_abono_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_inventario.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_inventario.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icono_factura_anulada.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-ldpi\\icono_factura_anulada.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_gastovehiculo.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\menu_gastovehiculo.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_pressed.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_thumb_down.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_factura_activity.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout-sw600dp\\factura_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu_ajustes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\menu_ajustes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_launcher.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\icon_launcher.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_round_keyboard_arrow_up_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\round_keyboard_arrow_up_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_facturas.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_facturas.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_config_ruta_v2.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\layout\\config_ruta_v2.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_pedidoslogistica.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\menu_pedidoslogistica.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tendero_menu.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\tendero_menu.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences_scanner.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\preferences_scanner.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_ventasmes.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\menu_ventasmes.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desplegable.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\desplegable.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_personajes_login_app.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\personajes_login_app.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_rules.xml.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_round_control_camera_white_36.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-mdpi\\round_control_camera_white_36.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_btn_search.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_btn_search.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_gastovehiculo.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable-xhdpi\\menu_gastovehiculo.png"
+    },
+    {
+        "merged": "D:\\Proyectos\\timovil-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_timovil_logo_app2.png.flat",
+        "source": "D:\\Proyectos\\timovil-app-master\\app\\src\\main\\res\\drawable\\timovil_logo_app2.png"
+    }
+]

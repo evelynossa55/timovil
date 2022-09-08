@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <View
+            android:id="@+id/separator_item"
+            android:layout_width="fill_parent"
+            android:layout_height="0.2dp"
+            android:background="#888"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lblEstadoCargaDatos"
+                android:textColor="#0076b8"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_estado_online"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#888"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/iv_estado_online"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/app_name"
+                android:paddingTop="3dp"
+                android:layout_marginLeft="3dp"
+                android:scaleType="centerCrop"
+                android:src="@android:drawable/presence_online" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnCargarTodo"
+            android:layout_width="260dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_pressed"
+            android:paddingEnd="40dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:paddingStart="40dp"
+            android:text="@string/cargar_todo"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btnCargarClientes"
+            android:layout_width="260dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:paddingEnd="40dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:paddingStart="40dp"
+            android:background="@drawable/button_pressed"
+            android:text="@string/cargar_clientes"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:id="@+id/btnCargarProductos"
+            android:layout_width="260dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:paddingEnd="40dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:paddingStart="40dp"
+            android:background="@drawable/button_pressed"
+            android:text="@string/cargar_productos"
+            android:textColor="@color/white"/>
+
+        <Button
+            android:id="@+id/btn_mi_meta_mensual"
+            android:layout_width="260dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_pressed"
+            android:paddingEnd="40dp"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:paddingStart="40dp"
+            android:text="@string/lblMiMetaMensual"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+    </LinearLayout>
+</ScrollView>

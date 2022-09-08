@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.cm.timovil2",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 135,
+      "versionName": "V5.6.6",
+      "enabled": true,
+      "outputFile": "app-release.apk"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Ingreso Gasto-->
+    <string name="lblIdentificacion">IDENTIFICACIÓN</string>
+    <string name="lblConcepto">CONCEPTO</string>
+    <string name="lblKilometraje">KILOMETRAJE</string>
+    <string name="lblValor">VALOR</string>
+    <string name="lblDescripcion">DESCRIPCIÓN</string>
+    <string name="lblVehiculo">VEHÍCULO</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="lblIngreseSuKilometraje">Ingrese el kilometraje actual</string>
+    <string name="lblIngreseElValor">Ingrese el valor del movimiento</string>
+    <string name="lblDescripcionHint">Ingrese aquí una descripción (opcional)</string>
+    <string name="lblIngreseSuCedula">Ingrese su cédula</string>
+    <string name="lblIngresePlaca">Ingrese número de matrícula</string>
+</resources>

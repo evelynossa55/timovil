@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timovil="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_menu_opciones"
+        android:title=""
+        timovil:showAsAction="always">
+        <menu>
+
+            <item
+                android:id="@+id/mnuDescargarRemisionesPendientes"
+                android:icon="@drawable/ic_descargar"
+                android:title="@string/descargar_pendientes"
+                timovil:showAsAction="withText" />
+
+            <item
+                android:id="@+id/mnuResumenFacturas"
+                android:title="@string/mnuResumen"
+                android:icon="@drawable/ic_resumen"
+                timovil:showAsAction="withText" />
+
+            <item
+                android:id="@+id/mnuImprimirTodas"
+                android:title="@string/mnuImprimirTodas"
+                android:icon="@drawable/ic_imprimir"
+                timovil:showAsAction="withText" />
+
+            <item
+                android:id="@+id/mnuEliminarRemisiones"
+                android:title="@string/eliminar"
+                android:icon="@drawable/ic_eliminar"
+                timovil:showAsAction="withText" />
+        </menu>
+    </item>
+
+</menu>

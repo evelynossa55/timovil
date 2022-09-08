@@ -1,0 +1,725 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cm.timovil2"
+4    android:versionCode="138"
+5    android:versionName="V5.6.9" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:6:5-8:36
+12        android:name="android.hardware.camera"
+12-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:7:9-47
+13        android:required="false" />
+13-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:8:9-33
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:9:5-70
+14-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:9:19-67
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:11:5-67
+16-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:11:22-64
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:12:5-68
+17-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:12:22-65
+18    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+18-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:13:5-74
+18-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:13:22-71
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:14:5-79
+19-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:14:22-76
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:15:5-79
+20-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:15:22-76
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:16:5-75
+21-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:16:22-72
+22    <uses-permission android:name="android.permission.CAMERA" />
+22-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:17:5-65
+22-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:17:22-62
+23    <uses-permission android:name="android.permission.VIBRATE" />
+23-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:18:5-66
+23-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:18:22-63
+24    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+24-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:19:5-81
+24-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:19:22-78
+25    <uses-permission android:name="android.permission.WAKE_LOCK" />
+25-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:20:5-68
+25-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:20:22-65
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:21:5-81
+26-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:21:22-78
+27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+27-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:22:5-80
+27-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:22:22-77
+28
+29    <uses-feature
+29-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:24:5-26:36
+30        android:name="android.hardware.location.gps"
+30-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:25:9-53
+31        android:required="false" />
+31-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:26:9-33
+32    <uses-feature
+32-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:27:5-29:36
+33        android:name="android.hardware.camera.front"
+33-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:28:9-53
+34        android:required="false" />
+34-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:29:9-33
+35    <uses-feature
+35-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:35:5-37:36
+36        android:name="android.hardware.camera.flash"
+36-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:36:9-53
+37        android:required="false" />
+37-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:37:9-33
+38    <uses-feature
+38-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:38:5-40:36
+39        android:name="android.hardware.screen.landscape"
+39-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:39:9-57
+40        android:required="false" />
+40-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:40:9-33
+41    <uses-feature
+41-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:41:5-43:36
+42        android:name="android.hardware.wifi"
+42-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:42:9-45
+43        android:required="false" />
+43-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:43:9-33
+44
+45    <application
+45-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:28:5-346:19
+46        android:name="com.cm.timovil2.bl.app.App"
+46-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:29:9-35
+47        android:allowBackup="true"
+47-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:30:9-35
+48        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+48-->[androidx.core:core:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ec52a42b3809414af2a33e276a3bdd03\core-1.0.0\AndroidManifest.xml:22:18-86
+49        android:debuggable="true"
+50        android:fullBackupContent="@xml/backup_rules"
+50-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:31:9-54
+51        android:icon="@drawable/icon_launcher"
+51-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:32:9-47
+52        android:label="@string/app_name"
+52-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:33:9-41
+53        android:supportsRtl="false"
+53-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:34:9-36
+54        android:theme="@style/AppTheme"
+54-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:35:9-40
+55        android:uiOptions="splitActionBarWhenNarrow"
+55-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:36:9-53
+56        android:usesCleartextTraffic="true"
+56-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:37:9-44
+57        android:windowSoftInputMode="adjustResize|stateVisible" >
+57-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:38:9-64
+58        <activity
+58-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:39:9-48:20
+59            android:name="com.cm.timovil2.front.ActivityLogin"
+59-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:40:13-48
+60            android:screenOrientation="portrait" >
+60-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:41:13-49
+61            <intent-filter>
+61-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:42:13-47:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:43:17-69
+62-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:43:25-66
+63                <action android:name="android.intent.action.VIEW" />
+63-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:44:17-69
+63-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:44:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:46:17-77
+65-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:46:27-74
+66            </intent-filter>
+67        </activity>
+68        <activity
+68-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:49:9-52:52
+69            android:name="com.cm.timovil2.front.ActivityUltimaFactura"
+69-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:50:13-56
+70            android:label="Pedido previo"
+70-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:51:13-42
+71            android:screenOrientation="portrait" />
+71-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:52:13-49
+72        <activity
+72-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:54:9-57:52
+73            android:name="com.cm.timovil2.front.ActivityUltimaRemision"
+73-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:55:13-57
+74            android:label="Pedido previo"
+74-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:56:13-42
+75            android:screenOrientation="portrait" />
+75-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:57:13-49
+76        <activity
+76-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:59:9-63:52
+77            android:name="com.cm.timovil2.front.ActivityConfigRuta"
+77-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:61:13-53
+78            android:label="@string/tituloConfiguracionRuta"
+78-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:62:13-60
+79            android:screenOrientation="portrait" />
+79-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:63:13-49
+80        <activity
+80-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:64:9-69:52
+81            android:name="com.cm.timovil2.front.ActivityMenuVendedor"
+81-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:65:13-55
+82            android:label="@string/tituloMenuVendedor"
+82-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:66:13-55
+83            android:screenOrientation="portrait"
+83-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:69:13-49
+84            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+84-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:67:13-72
+85        <activity
+85-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:70:9-73:52
+86            android:name="com.cm.timovil2.front.ActivityConfigImpresora"
+86-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:71:13-58
+87            android:label="@string/strConfiguracionImpresora"
+87-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:72:13-62
+88            android:screenOrientation="portrait" />
+88-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:73:13-49
+89        <activity
+89-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:74:9-81:20
+90            android:name="com.cm.timovil2.front.ActivityRutero"
+90-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:75:13-49
+91            android:screenOrientation="portrait"
+91-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:76:13-49
+92            android:uiOptions="none" >
+92-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:77:13-37
+93            <meta-data
+93-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+94                android:name="android.support.PARENT_ACTIVITY"
+94-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+95                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+95-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+96        </activity>
+97        <activity
+97-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:82:9-90:20
+98            android:name="com.cm.timovil2.front.ActivityInventario"
+98-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:83:13-53
+99            android:label="Inventario"
+99-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:84:13-39
+100            android:noHistory="false"
+100-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:85:13-38
+101            android:screenOrientation="portrait" >
+101-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:86:13-49
+102            <meta-data
+102-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+103                android:name="android.support.PARENT_ACTIVITY"
+103-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+104                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+104-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+105        </activity>
+106        <activity
+106-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:91:9-93:52
+107            android:name="com.cm.timovil2.front.ActivityFacturacion"
+107-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:92:13-54
+108            android:screenOrientation="portrait" />
+108-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:93:13-49
+109        <activity
+109-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:94:9-96:52
+110            android:name="com.cm.timovil2.front.ActivityCrearRemision"
+110-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:95:13-56
+111            android:screenOrientation="portrait" />
+111-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:96:13-49
+112        <activity
+112-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:97:9-103:20
+113            android:name="com.cm.timovil2.front.ActivityRemisiones"
+113-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:98:13-53
+114            android:screenOrientation="portrait" >
+114-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:99:13-49
+115            <meta-data
+115-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+116                android:name="android.support.PARENT_ACTIVITY"
+116-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+117                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+117-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+118        </activity>
+119        <activity
+119-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:104:9-110:20
+120            android:name="com.cm.timovil2.front.ActivityRemision"
+120-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:105:13-51
+121            android:screenOrientation="portrait" >
+121-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:106:13-49
+122            <meta-data
+122-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+123                android:name="android.support.PARENT_ACTIVITY"
+123-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+124                android:value="com.cm.timovil2.front.ActivityRemisiones" />
+124-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+125        </activity>
+126        <activity
+126-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:111:9-115:40
+127            android:name="com.cm.timovil2.front.ActivityDetalleFacturacion"
+127-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:112:13-61
+128            android:label="@string/str_titulo_detalle_facturacion_activity"
+128-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:113:13-76
+129            android:screenOrientation="portrait"
+129-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:114:13-49
+130            android:uiOptions="none" />
+130-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:115:13-37
+131        <activity
+131-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:116:9-123:20
+132            android:name="com.cm.timovil2.front.ActivityCargaDatos"
+132-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:117:13-53
+133            android:label="@string/tituloCargaDatos"
+133-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:118:13-53
+134            android:screenOrientation="portrait" >
+134-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:119:13-49
+135            <meta-data
+135-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+136                android:name="android.support.PARENT_ACTIVITY"
+136-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+137                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+137-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+138        </activity>
+139        <activity
+139-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:124:9-127:52
+140            android:name="com.cm.timovil2.front.ActivityFiltroProducto"
+140-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:125:13-57
+141            android:label="@string/str_buscar_producto"
+141-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:126:13-56
+142            android:screenOrientation="portrait" />
+142-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:127:13-49
+143        <activity
+143-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:128:9-135:20
+144            android:name="com.cm.timovil2.front.ActivityFacturas"
+144-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:129:13-51
+145            android:label="Facturas"
+145-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:130:13-37
+146            android:screenOrientation="portrait" >
+146-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:131:13-49
+147            <meta-data
+147-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+148                android:name="android.support.PARENT_ACTIVITY"
+148-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+149                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+149-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+150        </activity>
+151        <activity
+151-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:136:9-143:20
+152            android:name="com.cm.timovil2.front.ActivityCreditos"
+152-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:137:13-51
+153            android:label="Créditos"
+153-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:138:13-37
+154            android:screenOrientation="portrait" >
+154-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:139:13-49
+155            <meta-data
+155-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+156                android:name="android.support.PARENT_ACTIVITY"
+156-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+157                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+157-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+158        </activity>
+159        <activity
+159-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:144:9-148:52
+160            android:name="com.cm.timovil2.front.ActivityRegistroAbono"
+160-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:145:13-56
+161            android:label="Ingresar abono"
+161-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:146:13-43
+162            android:noHistory="true"
+162-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:147:13-37
+163            android:screenOrientation="portrait" />
+163-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:148:13-49
+164        <activity
+164-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:149:9-151:61
+165            android:name="com.cm.timovil2.front.ActivityComentarioFactura"
+165-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:150:13-60
+166            android:theme="@style/DialogTranslucentTheme" />
+166-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:151:13-58
+167        <activity
+167-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:152:9-155:52
+168            android:name="com.cm.timovil2.front.ActivityCartera"
+168-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:153:13-50
+169            android:label="Cartera"
+169-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:154:13-36
+170            android:screenOrientation="portrait" />
+170-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:155:13-49
+171        <activity
+171-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:156:9-163:20
+172            android:name="com.cm.timovil2.front.ActivityFactura"
+172-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:157:13-50
+173            android:label="Factura"
+173-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:158:13-36
+174            android:screenOrientation="portrait" >
+174-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:159:13-49
+175            <meta-data
+175-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+176                android:name="android.support.PARENT_ACTIVITY"
+176-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+177                android:value="com.cm.timovil2.front.ActivityFacturas" />
+177-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+178        </activity>
+179        <activity
+179-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:164:9-167:61
+180            android:name="com.cm.timovil2.front.ActivityConfirmarPass"
+180-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:165:13-56
+181            android:label="Admin"
+181-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:166:13-34
+182            android:theme="@style/DialogTranslucentTheme" />
+182-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:167:13-58
+183        <activity
+183-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:168:9-171:61
+184            android:name="com.cm.timovil2.front.ActivitySeleccionarBodega"
+184-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:169:13-60
+185            android:label="Bodegas"
+185-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:170:13-36
+186            android:theme="@style/DialogTranslucentTheme" />
+186-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:171:13-58
+187        <activity
+187-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:172:9-180:20
+188            android:name="com.cm.timovil2.front.ActivityResumenDiario"
+188-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:173:13-56
+189            android:label="Cuadre diario"
+189-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:174:13-42
+190            android:noHistory="false"
+190-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:175:13-38
+191            android:screenOrientation="portrait" >
+191-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:176:13-49
+192            <meta-data
+192-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+193                android:name="android.support.PARENT_ACTIVITY"
+193-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+194                android:value="com.cm.timovil2.front.ActivityFacturas" />
+194-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+195        </activity>
+196        <activity
+196-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:181:9-188:20
+197            android:name="com.cm.timovil2.vehiculos.GastosVehiculoActivity"
+197-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:182:13-61
+198            android:label="Gastos"
+198-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:183:13-35
+199            android:screenOrientation="portrait" >
+199-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:184:13-49
+200            <meta-data
+200-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+201                android:name="android.support.PARENT_ACTIVITY"
+201-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+202                android:value="com.cm.timovil2.vehiculos.IdentificarEmpleadoActivity" />
+202-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+203        </activity>
+204        <activity
+204-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:189:9-196:20
+205            android:name="com.cm.timovil2.vehiculos.IdentificarEmpleadoActivity"
+205-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:190:13-66
+206            android:label="Gastos"
+206-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:191:13-35
+207            android:screenOrientation="portrait" >
+207-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:192:13-49
+208            <meta-data
+208-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+209                android:name="android.support.PARENT_ACTIVITY"
+209-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+210                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+210-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+211        </activity>
+212        <activity
+212-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:197:9-200:52
+213            android:name="com.cm.timovil2.front.ActivityNoVenta"
+213-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:198:13-50
+214            android:label="No venta"
+214-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:199:13-37
+215            android:screenOrientation="portrait" />
+215-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:200:13-49
+216        <activity
+216-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:201:9-204:52
+217            android:name="com.cm.timovil2.front.ActivityGestionComercial"
+217-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:202:13-59
+218            android:label="Gestión comercial"
+218-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:203:13-46
+219            android:screenOrientation="portrait" />
+219-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:204:13-49
+220        <activity
+220-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:205:9-212:20
+221            android:name="com.cm.timovil2.front.ActivityGestionesComerciales"
+221-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:206:13-63
+222            android:label="Gestiones comerciales"
+222-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:207:13-50
+223            android:screenOrientation="portrait" >
+223-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:208:13-49
+224            <meta-data
+224-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+225                android:name="android.support.PARENT_ACTIVITY"
+225-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+226                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+226-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+227        </activity>
+228        <activity
+228-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:213:9-220:20
+229            android:name="com.cm.timovil2.front.ActivityVerGestionComercial"
+229-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:214:13-62
+230            android:label="Gestiones comerciales"
+230-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:215:13-50
+231            android:screenOrientation="portrait" >
+231-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:216:13-49
+232            <meta-data
+232-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+233                android:name="android.support.PARENT_ACTIVITY"
+233-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+234                android:value="com.cm.timovil2.front.ActivityGestionesComerciales" />
+234-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+235        </activity>
+236        <activity
+236-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:221:9-228:20
+237            android:name="com.cm.timovil2.front.ActivityCamera"
+237-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:222:13-49
+238            android:label="Camara"
+238-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:223:13-35
+239            android:screenOrientation="landscape" >
+239-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:224:13-50
+240            <meta-data
+240-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+241                android:name="android.support.PARENT_ACTIVITY"
+241-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+242                android:value="com.cm.timovil2.front.ActivityGestionesComerciales" />
+242-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+243        </activity>
+244        <activity
+244-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:229:9-236:20
+245            android:name="com.cm.timovil2.front.ActivityPedidos"
+245-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:230:13-50
+246            android:label="Pedidos"
+246-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:231:13-36
+247            android:screenOrientation="portrait" >
+247-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:232:13-49
+248            <meta-data
+248-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+249                android:name="android.support.PARENT_ACTIVITY"
+249-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+250                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+250-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+251        </activity>
+252        <activity
+252-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:237:9-244:20
+253            android:name="com.cm.timovil2.front.ActivityNoVentas"
+253-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:238:13-51
+254            android:label="No ventas"
+254-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:239:13-38
+255            android:screenOrientation="portrait" >
+255-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:240:13-49
+256            <meta-data
+256-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+257                android:name="android.support.PARENT_ACTIVITY"
+257-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+258                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+258-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+259        </activity>
+260        <activity
+260-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:245:9-252:20
+261            android:name="com.cm.timovil2.front.ActivityRuteroAsesor"
+261-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:246:13-55
+262            android:label="Rutero"
+262-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:247:13-35
+263            android:screenOrientation="portrait" >
+263-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:248:13-49
+264            <meta-data
+264-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+265                android:name="android.support.PARENT_ACTIVITY"
+265-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+266                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+266-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+267        </activity>
+268        <activity
+268-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:253:9-260:20
+269            android:name="com.cm.timovil2.front.ActivityHistorialGestionesComerciales"
+269-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:254:13-72
+270            android:label="Rutero"
+270-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:255:13-35
+271            android:screenOrientation="portrait" >
+271-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:256:13-49
+272            <meta-data
+272-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+273                android:name="android.support.PARENT_ACTIVITY"
+273-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+274                android:value="com.cm.timovil2.front.ActivityRuteroAsesor" />
+274-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+275        </activity>
+276        <activity
+276-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:261:9-268:20
+277            android:name="com.cm.timovil2.front.ActivityNotasCredito"
+277-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:262:13-55
+278            android:label="Notas Crédito"
+278-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:263:13-42
+279            android:screenOrientation="portrait" >
+279-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:264:13-49
+280            <meta-data
+280-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+281                android:name="android.support.PARENT_ACTIVITY"
+281-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+282                android:value="com.cm.timovil2.front.ActivityRuteroAsesor" />
+282-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+283        </activity>
+284        <activity
+284-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:269:9-276:20
+285            android:name="com.cm.timovil2.front.ActivityNotaCredito"
+285-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:270:13-54
+286            android:label="Nota Crédito"
+286-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:271:13-41
+287            android:screenOrientation="portrait" >
+287-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:272:13-49
+288            <meta-data
+288-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+289                android:name="android.support.PARENT_ACTIVITY"
+289-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+290                android:value="com.cm.timovil2.front.ActivityRuteroAsesor" />
+290-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+291        </activity>
+292
+293        <service android:name="com.cm.timovil2.bl.utilities.ServiceSincrofacturas" />
+293-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:278:9-71
+293-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:278:18-68
+294
+295        <receiver
+295-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:280:9-286:20
+296            android:name="com.cm.timovil2.bl.utilities.ReceiverSincrofacturas"
+296-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:281:13-64
+297            android:enabled="true" >
+297-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:282:13-35
+298            <intent-filter>
+298-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:283:13-285:29
+299                <action android:name="com.cm.timovil.SINCRO_REPORT" />
+299-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:284:17-71
+299-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:284:25-68
+300            </intent-filter>
+301        </receiver>
+302
+303        <service android:name="com.cm.timovil2.bl.utilities.ControlImeiService" />
+303-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:288:9-68
+303-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:288:18-65
+304        <service android:name="com.cm.timovil2.bl.utilities.ServiceMonitorFacturacion" />
+304-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:289:9-75
+304-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:289:18-72
+305        <service android:name="com.cm.timovil2.bl.utilities.ServicePedidosCallcenter" />
+305-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:290:9-74
+305-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:290:18-71
+306        <service android:name="com.cm.timovil2.bl.printers.btservice.BtService" />
+306-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:291:9-68
+306-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:291:18-65
+307        <service
+307-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:292:9-296:51
+308            android:name="com.cm.timovil2.location_service.LocationService"
+308-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:293:13-61
+309            android:exported="false"
+309-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:294:13-37
+310            android:label="Location service"
+310-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:295:13-45
+311            android:process=":location_service" />
+311-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:296:13-48
+312        <service
+312-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:297:9-299:72
+313            android:name="com.cm.timovil2.location_service.LocationJobService"
+313-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:298:13-64
+314            android:permission="android.permission.BIND_JOB_SERVICE" />
+314-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:299:13-69
+315
+316        <receiver
+316-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:301:9-303:51
+317            android:name="com.cm.timovil2.location_service.AlarmReceiverTimovil"
+317-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:302:13-66
+318            android:process=":location_service" />
+318-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:303:13-48
+319        <receiver
+319-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:304:9-310:20
+320            android:name="com.cm.timovil2.location_service.LocationActiveReceiver"
+320-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:305:13-68
+321            android:enabled="true" >
+321-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:306:13-35
+322            <intent-filter>
+322-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:307:13-309:29
+323                <action android:name="com.cm.timovil2.location_service.LOCATION_ACTIVE" />
+323-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:308:17-91
+323-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:308:25-88
+324            </intent-filter>
+325        </receiver>
+326        <!--
+327        <service android:name="gcm.TiMovil_GCM_Service" />
+328        <receiver
+329            android:name="gcm.TiMovil_GCM_Receiver"
+330            android:permission="com.google.android.c2dm.permission.SEND">
+331            <intent-filter>
+332                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+333                <category android:name="com.cm.timovil" />
+334            </intent-filter>
+335        </receiver>
+336
+337        <meta-data
+338            android:name="com.google.android.gms.version"
+339            android:value="@integer/google_play_services_version" />
+340        -->
+341        <provider
+342            android:name="com.cm.timovil2.bl.utilities.GenericFileProvider"
+342-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:327:13-61
+343            android:authorities="com.cm.timovil2.com.cm.timovil2.fileprovider"
+343-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:328:13-80
+344            android:exported="false"
+344-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:329:13-37
+345            android:grantUriPermissions="true" >
+345-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:330:13-47
+346            <meta-data
+346-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:331:13-333:54
+347                android:name="android.support.FILE_PROVIDER_PATHS"
+347-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:332:17-67
+348                android:resource="@xml/file_paths" />
+348-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:333:17-51
+349        </provider> <!-- -FABRIC -->
+350        <meta-data
+350-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:335:9-337:72
+351            android:name="io.fabric.ApiKey"
+351-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:336:13-44
+352            android:value="c305d853f87123d83c5811e18b55a06f3e442f9d" />
+352-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:337:13-69
+353
+354        <activity
+354-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:339:9-345:20
+355            android:name="com.cm.timovil2.pref.Configuraciones"
+355-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:340:13-49
+356            android:label="@string/title_activity_settings" >
+356-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:341:13-60
+357            <meta-data
+357-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+358                android:name="android.support.PARENT_ACTIVITY"
+358-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+359                android:value="com.cm.timovil2.front.ActivityMenuVendedor" />
+359-->D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+360        </activity>
+361        <activity
+361-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
+362            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+362-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
+363            android:clearTaskOnLaunch="true"
+363-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
+364            android:screenOrientation="sensorLandscape"
+364-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
+365            android:stateNotNeeded="true"
+365-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
+366            android:theme="@style/zxing_CaptureTheme"
+366-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
+367            android:windowSoftInputMode="stateAlwaysHidden" />
+367-->[com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
+368
+369        <provider
+369-->[com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:12:9-16:39
+370            android:name="com.crashlytics.android.CrashlyticsInitProvider"
+370-->[com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:13:13-75
+371            android:authorities="com.cm.timovil2.crashlyticsinitprovider"
+371-->[com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:14:13-75
+372            android:exported="false"
+372-->[com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:15:13-37
+373            android:initOrder="100" />
+373-->[com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:16:13-36
+374
+375        <activity
+375-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+376            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+376-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+377            android:exported="false"
+377-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+378            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+378-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+379
+380        <meta-data
+380-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+381            android:name="com.google.android.gms.version"
+381-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+382            android:value="@integer/google_play_services_version" />
+382-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+383    </application>
+384
+385</manifest>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lbl_category_impresion">Impresión</string>
+    <string name="lbl_category_scanner">Escaner</string>
+
+    <string name="lbl_tipo_impresora">Tipo de impresora</string>
+    <string name="lbl_summary_tipo_impresora">Seleccione el tipo de impresora</string>
+    <string name="lbl_default_tipo_impresora">GENERICA</string>
+    <array name="lst_tipos_impresora">
+        <item>Genérica</item>
+        <item>Citizen</item>
+        <item>Zebra</item>
+        <item >Rpp</item>
+    </array>
+    <array name="lst_values_tipos_impresora">
+        <item>GENERICA</item>
+        <item>CITIZEN</item>
+        <item>ZEBRA</item>
+        <item >RPP</item>
+    </array>
+
+    <string name="lbl_partir_impersion">Dividir impresión</string>
+    <string name="lbl_summary_partir_impresion">Imprimir por partes iguales a la cantidad de lineas por envío</string>
+
+    <string name="lbl_lineas_por_envio">Líneas por envío</string>
+    <string name="lbl_summary_lineas_por_envio">Ingrese la cantidad de líneas por envío de impresión</string>
+
+    <string name="lbl_cantidad_impresiones">Cantidad de impresiones</string>
+    <string name="lbl_summary_cantidad_impresiones">Ingrese la cantidad de facturas que se deben imprimir</string>
+
+    <string name="lbl_pulgadas_impresora">Pulgadas</string>
+    <string name="lbl_summary_pulgadas_impresora">Ingrese las pulgadas de su impresora</string>
+    <string name="lbl_default_pulgadas_impresora">DOS</string>
+    <array name="lst_pulgadas_impresora">
+        <item>DOS</item>
+        <item>TRES</item>
+    </array>
+    <array name="lst_values_pulgadas_impresora">
+        <item>DOS</item>
+        <item>TRES</item>
+    </array>
+
+    <string name="lbl_tipo_escaner">Lector de código barras</string>
+    <string name="lbl_summary_tipo_escaner">Seleccione el tipo de escaner</string>
+    <string name="lbl_default_tipo_escaner">CAMARA</string>
+    <array name="lst_tipos_escaner">
+        <item>Cámara del celular</item>
+        <item>Escaner dispositivo Zebra TCx</item>
+    </array>
+    <array name="lst_values_tipos_escaner">
+        <item>CAMARA</item>
+        <item>ZEBRAESCANER</item>
+    </array>
+
+</resources>

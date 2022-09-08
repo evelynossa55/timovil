@@ -1,0 +1,681 @@
+com/cm/timovil2/dto/DetalleResumenDiarioDTO.java
+ com.cm.timovil2.dto.DetalleResumenDiarioDTO
+com/cm/timovil2/proxy/ProxyConfiguracion.java
+ com.cm.timovil2.proxy.ProxyConfiguracion
+com/cm/timovil2/dto/EntregadorDTO.java
+ com.cm.timovil2.dto.EntregadorDTO
+com/cm/timovil2/bl/printers/btservice/print/PrintMsgEvent.java
+ com.cm.timovil2.bl.printers.btservice.print.PrintMsgEvent
+com/cm/timovil2/dto/ProductoDTO.java
+ com.cm.timovil2.dto.ProductoDTO
+com/cm/timovil2/dto/CuentaCajaDTO.java
+ com.cm.timovil2.dto.CuentaCajaDTO
+com/cm/timovil2/sincro/SincroMotivoNoVenta.java
+ com.cm.timovil2.sincro.SincroMotivoNoVenta
+com/cm/timovil2/bl/utilities/Item.java
+ com.cm.timovil2.bl.utilities.Item
+com/cm/timovil2/backup/NoVentaBackUp.java
+ com.cm.timovil2.backup.NoVentaBackUp
+com/cm/timovil2/data/AbonoFacturaDAL.java
+ com.cm.timovil2.data.AbonoFacturaDAL
+com/cm/timovil2/front/ActivityCartera.java
+ com.cm.timovil2.front.ActivityCartera
+ com.cm.timovil2.front.ActivityCartera$1
+com/cm/timovil2/bl/utilities/ServiceSincrofacturas.java
+ com.cm.timovil2.bl.utilities.ServiceSincrofacturas
+ com.cm.timovil2.bl.utilities.ServiceSincrofacturas$1
+ com.cm.timovil2.bl.utilities.ServiceSincrofacturas$ActualizadorDeFacturas
+com/cm/timovil2/sincro/SincroFormaPago.java
+ com.cm.timovil2.sincro.SincroFormaPago
+com/cm/timovil2/bl/app/Seguridad.java
+ com.cm.timovil2.bl.app.Seguridad
+ com.cm.timovil2.bl.app.Seguridad$TiposUsuario
+com/cm/timovil2/bl/printers/printer_v2/PrinterFactory.java
+ com.cm.timovil2.bl.printers.printer_v2.PrinterFactory
+com/cm/timovil2/bl/adapters/AdapterMenuVendedor.java
+ com.cm.timovil2.bl.adapters.AdapterMenuVendedor
+ com.cm.timovil2.bl.adapters.AdapterMenuVendedor$1
+ com.cm.timovil2.bl.adapters.AdapterMenuVendedor$ViewHolder
+com/cm/timovil2/dto/wsentities/MarshalFloat.java
+ com.cm.timovil2.dto.wsentities.MarshalFloat
+com/cm/timovil2/sincro/SincroProducto.java
+ com.cm.timovil2.sincro.SincroProducto
+com/cm/timovil2/bl/printers/printer_v2/PrinterDetailResume.java
+ com.cm.timovil2.bl.printers.printer_v2.PrinterDetailResume
+com/cm/timovil2/dto/wsentities/MDetFact.java
+ com.cm.timovil2.dto.wsentities.MDetFact
+com/cm/timovil2/front/ActivityConfigImpresora.java
+ com.cm.timovil2.front.ActivityConfigImpresora
+ com.cm.timovil2.front.ActivityConfigImpresora$1
+ com.cm.timovil2.front.ActivityConfigImpresora$2
+ com.cm.timovil2.front.ActivityConfigImpresora$3
+ com.cm.timovil2.front.ActivityConfigImpresora$4
+ com.cm.timovil2.front.ActivityConfigImpresora$5
+ com.cm.timovil2.front.ActivityConfigImpresora$Dispositivo
+com/cm/timovil2/data/ProgramacionAsesorDAL.java
+ com.cm.timovil2.data.ProgramacionAsesorDAL
+com/cm/timovil2/pref/PrintPreferencesFragment.java
+ com.cm.timovil2.pref.PrintPreferencesFragment
+com/cm/timovil2/front/ActivityFactura.java
+ com.cm.timovil2.front.ActivityFactura
+com/cm/timovil2/pref/AppCompatPreferenceActivity.java
+ com.cm.timovil2.pref.AppCompatPreferenceActivity
+com/cm/timovil2/data/DAL.java
+ com.cm.timovil2.data.DAL
+com/cm/timovil2/front/ActivityLogin.java
+ com.cm.timovil2.front.ActivityLogin
+ com.cm.timovil2.front.ActivityLogin$1
+ com.cm.timovil2.front.ActivityLogin$2
+ com.cm.timovil2.front.ActivityLogin$CargaResolucionWS
+com/cm/timovil2/bl/utilities/Images.java
+ com.cm.timovil2.bl.utilities.Images
+com/cm/timovil2/bl/adapters/AdapterNotasCreditoPorFecha.java
+ com.cm.timovil2.bl.adapters.AdapterNotasCreditoPorFecha
+ com.cm.timovil2.bl.adapters.AdapterNotasCreditoPorFecha$1
+ com.cm.timovil2.bl.adapters.AdapterNotasCreditoPorFecha$2
+ com.cm.timovil2.bl.adapters.AdapterNotasCreditoPorFecha$ViewHolderFecha
+ com.cm.timovil2.bl.adapters.AdapterNotasCreditoPorFecha$ViewHolderFooter
+ com.cm.timovil2.bl.adapters.AdapterNotasCreditoPorFecha$ViewHolderNota
+com/cm/timovil2/dto/FacturaDTO.java
+ com.cm.timovil2.dto.FacturaDTO
+com/cm/timovil2/bl/calculus/Calculator.java
+ com.cm.timovil2.bl.calculus.Calculator
+com/cm/timovil2/dto/wsentities/MDetalleListaPrecios.java
+ com.cm.timovil2.dto.wsentities.MDetalleListaPrecios
+com/cm/timovil2/proxy/ProxyCliente.java
+ com.cm.timovil2.proxy.ProxyCliente
+com/cm/timovil2/bl/adapters/AdapterProductos.java
+ com.cm.timovil2.bl.adapters.AdapterProductos
+com/cm/timovil2/data/DetalleListaPreciosDAL.java
+ com.cm.timovil2.data.DetalleListaPreciosDAL
+com/cm/timovil2/data/UbicacionRutaDAL.java
+ com.cm.timovil2.data.UbicacionRutaDAL
+com/cm/timovil2/data/GuardarMotivoNoVentaDAL.java
+ com.cm.timovil2.data.GuardarMotivoNoVentaDAL
+com/cm/timovil2/vehiculos/IdentificarEmpleadoActivity.java
+ com.cm.timovil2.vehiculos.IdentificarEmpleadoActivity
+ com.cm.timovil2.vehiculos.IdentificarEmpleadoActivity$1
+com/cm/timovil2/front/ActivityCreditos.java
+ com.cm.timovil2.front.ActivityCreditos
+ com.cm.timovil2.front.ActivityCreditos$1
+ com.cm.timovil2.front.ActivityCreditos$2
+ com.cm.timovil2.front.ActivityCreditos$3
+ com.cm.timovil2.front.ActivityCreditos$4
+ com.cm.timovil2.front.ActivityCreditos$5
+ com.cm.timovil2.front.ActivityCreditos$6
+ com.cm.timovil2.front.ActivityCreditos$DescargaFacturas
+com/cm/timovil2/dto/wsentities/MFactCredito.java
+ com.cm.timovil2.dto.wsentities.MFactCredito
+com/cm/timovil2/front/ActivityFacturacion.java
+ com.cm.timovil2.front.ActivityFacturacion
+ com.cm.timovil2.front.ActivityFacturacion$1
+ com.cm.timovil2.front.ActivityFacturacion$2
+ com.cm.timovil2.front.ActivityFacturacion$3
+ com.cm.timovil2.front.ActivityFacturacion$4
+ com.cm.timovil2.front.ActivityFacturacion$5
+ com.cm.timovil2.front.ActivityFacturacion$6
+ com.cm.timovil2.front.ActivityFacturacion$7
+ com.cm.timovil2.front.ActivityFacturacion$8
+ com.cm.timovil2.front.ActivityFacturacion$ObtenerUltimaFacturaTask
+com/cm/timovil2/bl/printers/ZebraPrinter.java
+ com.cm.timovil2.bl.printers.ZebraPrinter
+ com.cm.timovil2.bl.printers.ZebraPrinter$1
+com/cm/timovil2/bl/utilities/GenericFileProvider.java
+ com.cm.timovil2.bl.utilities.GenericFileProvider
+com/cm/timovil2/bl/printers/printer_v2/Printer.java
+ com.cm.timovil2.bl.printers.printer_v2.Printer
+com/cm/timovil2/bl/printers/printer_v2/PrinterCITIZEN.java
+ com.cm.timovil2.bl.printers.printer_v2.PrinterCITIZEN
+ com.cm.timovil2.bl.printers.printer_v2.PrinterCITIZEN$1
+ com.cm.timovil2.bl.printers.printer_v2.PrinterCITIZEN$Desconexion
+ com.cm.timovil2.bl.printers.printer_v2.PrinterCITIZEN$connTask
+com/cm/timovil2/data/ClienteDAL.java
+ com.cm.timovil2.data.ClienteDAL
+com/cm/timovil2/bl/utilities/CameraPreview.java
+ com.cm.timovil2.bl.utilities.CameraPreview
+com/cm/timovil2/front/ActivityHistorialGestionesComerciales.java
+ com.cm.timovil2.front.ActivityHistorialGestionesComerciales
+ com.cm.timovil2.front.ActivityHistorialGestionesComerciales$1
+ com.cm.timovil2.front.ActivityHistorialGestionesComerciales$2
+ com.cm.timovil2.front.ActivityHistorialGestionesComerciales$CargarGestiones
+com/cm/timovil2/dto/AsesorProgramacionDetalleDTO.java
+ com.cm.timovil2.dto.AsesorProgramacionDetalleDTO
+com/cm/timovil2/sincro/SincroEntregador.java
+ com.cm.timovil2.sincro.SincroEntregador
+com/cm/timovil2/BuildConfig.java
+ com.cm.timovil2.BuildConfig
+com/cm/timovil2/dto/ConceptoMantenimientoDTO.java
+ com.cm.timovil2.dto.ConceptoMantenimientoDTO
+com/cm/timovil2/front/ActivityGestionComercial.java
+ com.cm.timovil2.front.ActivityGestionComercial
+ com.cm.timovil2.front.ActivityGestionComercial$1
+ com.cm.timovil2.front.ActivityGestionComercial$2
+ com.cm.timovil2.front.ActivityGestionComercial$3
+ com.cm.timovil2.front.ActivityGestionComercial$4
+ com.cm.timovil2.front.ActivityGestionComercial$5
+ com.cm.timovil2.front.ActivityGestionComercial$6
+ com.cm.timovil2.front.ActivityGestionComercial$PageChangeListener
+ com.cm.timovil2.front.ActivityGestionComercial$SyncGestionComercial
+ com.cm.timovil2.front.ActivityGestionComercial$SyncGestionComercial$1
+ com.cm.timovil2.front.ActivityGestionComercial$SyncGestionComercial$2
+com/cm/timovil2/bl/app/App.java
+ com.cm.timovil2.bl.app.App
+com/cm/timovil2/bl/utilities/ItemSection.java
+ com.cm.timovil2.bl.utilities.ItemSection
+com/cm/timovil2/front/ActivityRegistroAbono.java
+ com.cm.timovil2.front.ActivityRegistroAbono
+ com.cm.timovil2.front.ActivityRegistroAbono$1
+ com.cm.timovil2.front.ActivityRegistroAbono$2
+ com.cm.timovil2.front.ActivityRegistroAbono$2$1
+ com.cm.timovil2.front.ActivityRegistroAbono$3
+com/cm/timovil2/dto/DetallePedidoCallcenterDTO.java
+ com.cm.timovil2.dto.DetallePedidoCallcenterDTO
+com/cm/timovil2/data/MotivoNoVentaDAL.java
+ com.cm.timovil2.data.MotivoNoVentaDAL
+com/cm/timovil2/dto/DescuentoDTO.java
+ com.cm.timovil2.dto.DescuentoDTO
+com/cm/timovil2/data/DescuentoDAL.java
+ com.cm.timovil2.data.DescuentoDAL
+com/cm/timovil2/bl/calculus/CalculatorFactory.java
+ com.cm.timovil2.bl.calculus.CalculatorFactory
+com/cm/timovil2/proxy/ISincroWeb.java
+ com.cm.timovil2.proxy.ISincroWeb
+com/cm/timovil2/dto/ResolucionDTO.java
+ com.cm.timovil2.dto.ResolucionDTO
+com/cm/timovil2/dto/DetalleRemisionDTO.java
+ com.cm.timovil2.dto.DetalleRemisionDTO
+com/cm/timovil2/bl/utilities/ItemNotaCreditoHeader.java
+ com.cm.timovil2.bl.utilities.ItemNotaCreditoHeader
+com/cm/timovil2/data/NotaCreditoFacturaDAL.java
+ com.cm.timovil2.data.NotaCreditoFacturaDAL
+com/cm/timovil2/bl/utilities/CirclePageIndicator.java
+ com.cm.timovil2.bl.utilities.CirclePageIndicator
+ com.cm.timovil2.bl.utilities.CirclePageIndicator$1
+ com.cm.timovil2.bl.utilities.CirclePageIndicator$SavedState
+ com.cm.timovil2.bl.utilities.CirclePageIndicator$SavedState$1
+com/cm/timovil2/bl/calculus/Calculable.java
+ com.cm.timovil2.bl.calculus.Calculable
+com/cm/timovil2/front/ActivityBase.java
+ com.cm.timovil2.front.ActivityBase
+ com.cm.timovil2.front.ActivityBase$1
+ com.cm.timovil2.front.ActivityBase$2
+ com.cm.timovil2.front.ActivityBase$3
+ com.cm.timovil2.front.ActivityBase$4
+ com.cm.timovil2.front.ActivityBase$5
+ com.cm.timovil2.front.ActivityBase$6
+ com.cm.timovil2.front.ActivityBase$7
+ com.cm.timovil2.front.ActivityBase$8
+com/cm/timovil2/sincro/SincroResolucion.java
+ com.cm.timovil2.sincro.SincroResolucion
+com/cm/timovil2/front/ActivityUltimaRemision.java
+ com.cm.timovil2.front.ActivityUltimaRemision
+com/cm/timovil2/bl/printers/btservice/print/PrintPic.java
+ com.cm.timovil2.bl.printers.btservice.print.PrintPic
+com/cm/timovil2/bl/utilities/TaskUpdateDateApp.java
+ com.cm.timovil2.bl.utilities.TaskUpdateDateApp
+com/cm/timovil2/dto/DetalleResumenNotaCreditoFacturaPorDevolucionDTO.java
+ com.cm.timovil2.dto.DetalleResumenNotaCreditoFacturaPorDevolucionDTO
+com/cm/timovil2/bl/utilities/ItemEntry.java
+ com.cm.timovil2.bl.utilities.ItemEntry
+com/cm/timovil2/proxy/ProxyWS.java
+ com.cm.timovil2.proxy.ProxyWS
+ com.cm.timovil2.proxy.ProxyWS$MetodosWeb
+com/cm/timovil2/front/ActivityNoVenta.java
+ com.cm.timovil2.front.ActivityNoVenta
+ com.cm.timovil2.front.ActivityNoVenta$1
+ com.cm.timovil2.front.ActivityNoVenta$2
+ com.cm.timovil2.front.ActivityNoVenta$3
+ com.cm.timovil2.front.ActivityNoVenta$4
+ com.cm.timovil2.front.ActivityNoVenta$5
+ com.cm.timovil2.front.ActivityNoVenta$SyncNoVenta
+ com.cm.timovil2.front.ActivityNoVenta$SyncNoVentaPedidoCallcenter
+com/cm/timovil2/bl/adapters/AdapterRemisionesPorFecha.java
+ com.cm.timovil2.bl.adapters.AdapterRemisionesPorFecha
+ com.cm.timovil2.bl.adapters.AdapterRemisionesPorFecha$1
+ com.cm.timovil2.bl.adapters.AdapterRemisionesPorFecha$2
+ com.cm.timovil2.bl.adapters.AdapterRemisionesPorFecha$ViewHolderFecha
+ com.cm.timovil2.bl.adapters.AdapterRemisionesPorFecha$ViewHolderFooter
+ com.cm.timovil2.bl.adapters.AdapterRemisionesPorFecha$ViewHolderRemision
+com/cm/timovil2/dto/wsentities/MUltRem.java
+ com.cm.timovil2.dto.wsentities.MUltRem
+com/cm/timovil2/front/ActivityCamera.java
+ com.cm.timovil2.front.ActivityCamera
+ com.cm.timovil2.front.ActivityCamera$1
+ com.cm.timovil2.front.ActivityCamera$2
+com/cm/timovil2/front/ActivityRuteroAsesor.java
+ com.cm.timovil2.front.ActivityRuteroAsesor
+ com.cm.timovil2.front.ActivityRuteroAsesor$1
+ com.cm.timovil2.front.ActivityRuteroAsesor$2
+ com.cm.timovil2.front.ActivityRuteroAsesor$3
+ com.cm.timovil2.front.ActivityRuteroAsesor$4
+ com.cm.timovil2.front.ActivityRuteroAsesor$CargaRuteroWS
+com/cm/timovil2/data/ProductoDAL.java
+ com.cm.timovil2.data.ProductoDAL
+com/cm/timovil2/bl/utilities/CustomProgressBar.java
+ com.cm.timovil2.bl.utilities.CustomProgressBar
+com/cm/timovil2/bl/printers/printer_v2/PrinterRPP.java
+ com.cm.timovil2.bl.printers.printer_v2.PrinterRPP
+ com.cm.timovil2.bl.printers.printer_v2.PrinterRPP$1
+com/cm/timovil2/bl/printers/printer_v2/PrinterZEBRA.java
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA$1
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA$2
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA$3
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA$4
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA$5
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA$6
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA$7
+ com.cm.timovil2.bl.printers.printer_v2.PrinterZEBRA$8
+com/cm/timovil2/front/ActivityRemisiones.java
+ com.cm.timovil2.front.ActivityRemisiones
+ com.cm.timovil2.front.ActivityRemisiones$1
+ com.cm.timovil2.front.ActivityRemisiones$10
+ com.cm.timovil2.front.ActivityRemisiones$2
+ com.cm.timovil2.front.ActivityRemisiones$3
+ com.cm.timovil2.front.ActivityRemisiones$4
+ com.cm.timovil2.front.ActivityRemisiones$5
+ com.cm.timovil2.front.ActivityRemisiones$6
+ com.cm.timovil2.front.ActivityRemisiones$7
+ com.cm.timovil2.front.ActivityRemisiones$8
+ com.cm.timovil2.front.ActivityRemisiones$9
+ com.cm.timovil2.front.ActivityRemisiones$AnularRemisionTask
+ com.cm.timovil2.front.ActivityRemisiones$DescargaRemisiones
+com/cm/timovil2/pref/ScannerPreferencesFragment.java
+ com.cm.timovil2.pref.ScannerPreferencesFragment
+com/cm/timovil2/sincro/ISincroData.java
+ com.cm.timovil2.sincro.ISincroData
+com/cm/timovil2/dto/NotaCreditoFacturaDTO.java
+ com.cm.timovil2.dto.NotaCreditoFacturaDTO
+com/cm/timovil2/dto/wsentities/MDetUltFac.java
+ com.cm.timovil2.dto.wsentities.MDetUltFac
+com/cm/timovil2/front/ActivityPedidos.java
+ com.cm.timovil2.front.ActivityPedidos
+ com.cm.timovil2.front.ActivityPedidos$1
+ com.cm.timovil2.front.ActivityPedidos$2
+ com.cm.timovil2.front.ActivityPedidos$3
+ com.cm.timovil2.front.ActivityPedidos$4
+ com.cm.timovil2.front.ActivityPedidos$5
+ com.cm.timovil2.front.ActivityPedidos$6
+ com.cm.timovil2.front.ActivityPedidos$7
+ com.cm.timovil2.front.ActivityPedidos$8
+ com.cm.timovil2.front.ActivityPedidos$CargaPedidosTask
+com/cm/timovil2/data/FacturaCreditoDAL.java
+ com.cm.timovil2.data.FacturaCreditoDAL
+com/cm/timovil2/proxy/ProxyProducto.java
+ com.cm.timovil2.proxy.ProxyProducto
+com/cm/timovil2/front/ActivityRutero.java
+ com.cm.timovil2.front.ActivityRutero
+ com.cm.timovil2.front.ActivityRutero$1
+ com.cm.timovil2.front.ActivityRutero$10
+ com.cm.timovil2.front.ActivityRutero$11
+ com.cm.timovil2.front.ActivityRutero$2
+ com.cm.timovil2.front.ActivityRutero$3
+ com.cm.timovil2.front.ActivityRutero$4
+ com.cm.timovil2.front.ActivityRutero$5
+ com.cm.timovil2.front.ActivityRutero$6
+ com.cm.timovil2.front.ActivityRutero$7
+ com.cm.timovil2.front.ActivityRutero$8
+ com.cm.timovil2.front.ActivityRutero$9
+ com.cm.timovil2.front.ActivityRutero$CargaRuteroWS
+com/cm/timovil2/dto/ClienteDTO.java
+ com.cm.timovil2.dto.ClienteDTO
+com/cm/timovil2/data/ResolucionDAL.java
+ com.cm.timovil2.data.ResolucionDAL
+com/cm/timovil2/bl/app/Installation.java
+ com.cm.timovil2.bl.app.Installation
+com/cm/timovil2/bl/adapters/AdapterInventario.java
+ com.cm.timovil2.bl.adapters.AdapterInventario
+ com.cm.timovil2.bl.adapters.AdapterInventario$ViewHolder
+com/cm/timovil2/data/DetalleFacturaDAL.java
+ com.cm.timovil2.data.DetalleFacturaDAL
+com/cm/timovil2/bl/utilities/ItemNoVentaDetail.java
+ com.cm.timovil2.bl.utilities.ItemNoVentaDetail
+com/cm/timovil2/sincro/SincroListaPrecios.java
+ com.cm.timovil2.sincro.SincroListaPrecios
+com/cm/timovil2/bl/utilities/ItemFacturaHeader.java
+ com.cm.timovil2.bl.utilities.ItemFacturaHeader
+com/cm/timovil2/front/ActivityFiltroProducto.java
+ com.cm.timovil2.front.ActivityFiltroProducto
+ com.cm.timovil2.front.ActivityFiltroProducto$1
+ com.cm.timovil2.front.ActivityFiltroProducto$2
+com/cm/timovil2/bl/printers/btservice/print/GPrinterCommand.java
+ com.cm.timovil2.bl.printers.btservice.print.GPrinterCommand
+com/cm/timovil2/dto/wsentities/MValFact.java
+ com.cm.timovil2.dto.wsentities.MValFact
+com/cm/timovil2/dto/UbicacionRutaDTO.java
+ com.cm.timovil2.dto.UbicacionRutaDTO
+com/cm/timovil2/dto/ResumenNotasCreditoPorDevolucionDTO.java
+ com.cm.timovil2.dto.ResumenNotasCreditoPorDevolucionDTO
+com/cm/timovil2/front/ActivityResumenDiario.java
+ com.cm.timovil2.front.ActivityResumenDiario
+ com.cm.timovil2.front.ActivityResumenDiario$DatePickerFragment
+com/cm/timovil2/front/ActivityVerGestionComercial.java
+ com.cm.timovil2.front.ActivityVerGestionComercial
+ com.cm.timovil2.front.ActivityVerGestionComercial$1
+ com.cm.timovil2.front.ActivityVerGestionComercial$2
+ com.cm.timovil2.front.ActivityVerGestionComercial$PageChangeListener
+com/cm/timovil2/bl/adapters/AdapterEntry.java
+ com.cm.timovil2.bl.adapters.AdapterEntry
+com/cm/timovil2/bl/utilities/ItemFacturaDetail.java
+ com.cm.timovil2.bl.utilities.ItemFacturaDetail
+com/cm/timovil2/front/ActivityRemision.java
+ com.cm.timovil2.front.ActivityRemision
+com/cm/timovil2/data/FacturaDAL.java
+ com.cm.timovil2.data.FacturaDAL
+com/cm/timovil2/bl/utilities/ItemNotaCreditoDetail.java
+ com.cm.timovil2.bl.utilities.ItemNotaCreditoDetail
+com/cm/timovil2/bl/adapters/AdapterGestionesComerciales.java
+ com.cm.timovil2.bl.adapters.AdapterGestionesComerciales
+ com.cm.timovil2.bl.adapters.AdapterGestionesComerciales$1
+ com.cm.timovil2.bl.adapters.AdapterGestionesComerciales$FacturaFilter
+com/cm/timovil2/rest/SincroHelper.java
+ com.cm.timovil2.rest.SincroHelper
+com/cm/timovil2/dto/DetalleNotaCreditoFacturaDTO.java
+ com.cm.timovil2.dto.DetalleNotaCreditoFacturaDTO
+com/cm/timovil2/data/ResultadoGestionCasoCallcenterDAL.java
+ com.cm.timovil2.data.ResultadoGestionCasoCallcenterDAL
+com/cm/timovil2/front/ActivityConfigRuta.java
+ com.cm.timovil2.front.ActivityConfigRuta
+ com.cm.timovil2.front.ActivityConfigRuta$1
+ com.cm.timovil2.front.ActivityConfigRuta$2
+ com.cm.timovil2.front.ActivityConfigRuta$CargaResolucionWS
+com/cm/timovil2/proxy/ProxyFactura.java
+ com.cm.timovil2.proxy.ProxyFactura
+ com.cm.timovil2.proxy.ProxyFactura$Accion
+com/cm/timovil2/bl/adapters/AdapterFacturasPorFecha.java
+ com.cm.timovil2.bl.adapters.AdapterFacturasPorFecha
+ com.cm.timovil2.bl.adapters.AdapterFacturasPorFecha$1
+ com.cm.timovil2.bl.adapters.AdapterFacturasPorFecha$2
+ com.cm.timovil2.bl.adapters.AdapterFacturasPorFecha$ViewHolderFactura
+ com.cm.timovil2.bl.adapters.AdapterFacturasPorFecha$ViewHolderFecha
+ com.cm.timovil2.bl.adapters.AdapterFacturasPorFecha$ViewHolderFooter
+com/cm/timovil2/bl/utilities/Utilities.java
+ com.cm.timovil2.bl.utilities.Utilities
+ com.cm.timovil2.bl.utilities.Utilities$1
+com/cm/timovil2/front/ActivitySeleccionarBodega.java
+ com.cm.timovil2.front.ActivitySeleccionarBodega
+ com.cm.timovil2.front.ActivitySeleccionarBodega$1
+ com.cm.timovil2.front.ActivitySeleccionarBodega$2
+com/cm/timovil2/dto/wsentities/MDetalleFactura.java
+ com.cm.timovil2.dto.wsentities.MDetalleFactura
+com/cm/timovil2/data/PedidoCallcenterDAL.java
+ com.cm.timovil2.data.PedidoCallcenterDAL
+com/cm/timovil2/bl/utilities/ItemRemisionDetail.java
+ com.cm.timovil2.bl.utilities.ItemRemisionDetail
+com/cm/timovil2/backup/IBackUp.java
+ com.cm.timovil2.backup.IBackUp
+com/cm/timovil2/location_service/LocationActiveReceiver.java
+ com.cm.timovil2.location_service.LocationActiveReceiver
+com/cm/timovil2/front/ActivityGestionesComerciales.java
+ com.cm.timovil2.front.ActivityGestionesComerciales
+ com.cm.timovil2.front.ActivityGestionesComerciales$1
+ com.cm.timovil2.front.ActivityGestionesComerciales$2
+ com.cm.timovil2.front.ActivityGestionesComerciales$3
+ com.cm.timovil2.front.ActivityGestionesComerciales$4
+ com.cm.timovil2.front.ActivityGestionesComerciales$DescargaGestiones
+com/cm/timovil2/bl/adapters/AdapterPedidos.java
+ com.cm.timovil2.bl.adapters.AdapterPedidos
+com/cm/timovil2/proxy/ProxyResolucion.java
+ com.cm.timovil2.proxy.ProxyResolucion
+com/cm/timovil2/front/ActivityDetalleFacturacion.java
+ com.cm.timovil2.front.ActivityDetalleFacturacion
+ com.cm.timovil2.front.ActivityDetalleFacturacion$1
+ com.cm.timovil2.front.ActivityDetalleFacturacion$2
+ com.cm.timovil2.front.ActivityDetalleFacturacion$3
+ com.cm.timovil2.front.ActivityDetalleFacturacion$4
+ com.cm.timovil2.front.ActivityDetalleFacturacion$PrecioProducto
+com/cm/timovil2/dto/ResumenFacturacionDTO.java
+ com.cm.timovil2.dto.ResumenFacturacionDTO
+com/cm/timovil2/dto/wsentities/MUltFac.java
+ com.cm.timovil2.dto.wsentities.MUltFac
+com/cm/timovil2/dto/DetalleFacturaDTO.java
+ com.cm.timovil2.dto.DetalleFacturaDTO
+com/cm/timovil2/bl/printers/btservice/print/PrinterMsgType.java
+ com.cm.timovil2.bl.printers.btservice.print.PrinterMsgType
+com/cm/timovil2/backup/FacturaBackUp.java
+ com.cm.timovil2.backup.FacturaBackUp
+com/cm/timovil2/dto/wsentities/MAbono.java
+ com.cm.timovil2.dto.wsentities.MAbono
+com/cm/timovil2/sincro/SincroCuentaCaja.java
+ com.cm.timovil2.sincro.SincroCuentaCaja
+com/cm/timovil2/bl/utilities/TaskUpdateApp.java
+ com.cm.timovil2.bl.utilities.TaskUpdateApp
+ com.cm.timovil2.bl.utilities.TaskUpdateApp$1
+ com.cm.timovil2.bl.utilities.TaskUpdateApp$2
+com/cm/timovil2/front/ActivityInventario.java
+ com.cm.timovil2.front.ActivityInventario
+ com.cm.timovil2.front.ActivityInventario$1
+ com.cm.timovil2.front.ActivityInventario$2
+ com.cm.timovil2.front.ActivityInventario$3
+com/cm/timovil2/sincro/SincroCliente.java
+ com.cm.timovil2.sincro.SincroCliente
+com/cm/timovil2/bl/utilities/ControlImeiService.java
+ com.cm.timovil2.bl.utilities.ControlImeiService
+ com.cm.timovil2.bl.utilities.ControlImeiService$1
+ com.cm.timovil2.bl.utilities.ControlImeiService$ControlImeiTask
+com/cm/timovil2/front/ActivityCargaDatos.java
+ com.cm.timovil2.front.ActivityCargaDatos
+ com.cm.timovil2.front.ActivityCargaDatos$1
+ com.cm.timovil2.front.ActivityCargaDatos$2
+ com.cm.timovil2.front.ActivityCargaDatos$3
+ com.cm.timovil2.front.ActivityCargaDatos$4
+ com.cm.timovil2.front.ActivityCargaDatos$5
+ com.cm.timovil2.front.ActivityCargaDatos$CargaProductosWS
+ com.cm.timovil2.front.ActivityCargaDatos$CargaRuteroWS
+ com.cm.timovil2.front.ActivityCargaDatos$CargaTodoWS
+com/cm/timovil2/dto/ResultadoGestionCasoCallcenterDTO.java
+ com.cm.timovil2.dto.ResultadoGestionCasoCallcenterDTO
+com/cm/timovil2/data/FormaPagoDAL.java
+ com.cm.timovil2.data.FormaPagoDAL
+com/cm/timovil2/front/ActivityConfirmarPass.java
+ com.cm.timovil2.front.ActivityConfirmarPass
+ com.cm.timovil2.front.ActivityConfirmarPass$1
+com/cm/timovil2/dto/wsentities/MDetUltRem.java
+ com.cm.timovil2.dto.wsentities.MDetUltRem
+com/cm/timovil2/proxy/ProxyAbonoFactura.java
+ com.cm.timovil2.proxy.ProxyAbonoFactura
+com/cm/timovil2/bl/printers/printer_v2/PrinterGeneric.java
+ com.cm.timovil2.bl.printers.printer_v2.PrinterGeneric
+com/cm/timovil2/front/ActivityFacturas.java
+ com.cm.timovil2.front.ActivityFacturas
+ com.cm.timovil2.front.ActivityFacturas$1
+ com.cm.timovil2.front.ActivityFacturas$10
+ com.cm.timovil2.front.ActivityFacturas$2
+ com.cm.timovil2.front.ActivityFacturas$3
+ com.cm.timovil2.front.ActivityFacturas$4
+ com.cm.timovil2.front.ActivityFacturas$5
+ com.cm.timovil2.front.ActivityFacturas$6
+ com.cm.timovil2.front.ActivityFacturas$7
+ com.cm.timovil2.front.ActivityFacturas$8
+ com.cm.timovil2.front.ActivityFacturas$9
+ com.cm.timovil2.front.ActivityFacturas$AnularFacturaTask
+ com.cm.timovil2.front.ActivityFacturas$DescargaFacturas
+ com.cm.timovil2.front.ActivityFacturas$VerificarIntegridadFacturas
+com/cm/timovil2/front/ActivityNotaCredito.java
+ com.cm.timovil2.front.ActivityNotaCredito
+com/cm/timovil2/data/DetalleFacturaCreditoDAL.java
+ com.cm.timovil2.data.DetalleFacturaCreditoDAL
+com/cm/timovil2/bl/printers/btservice/BtService.java
+ com.cm.timovil2.bl.printers.btservice.BtService
+com/cm/timovil2/location_service/LocationJobService.java
+ com.cm.timovil2.location_service.LocationJobService
+ com.cm.timovil2.location_service.LocationJobService$1
+ com.cm.timovil2.location_service.LocationJobService$RegistrarUbicacion
+com/cm/timovil2/dto/MotivoNoVentaDTO.java
+ com.cm.timovil2.dto.MotivoNoVentaDTO
+com/cm/timovil2/bl/utilities/EFacturaUtilities.java
+ com.cm.timovil2.bl.utilities.EFacturaUtilities
+com/cm/timovil2/bl/utilities/ServiceMonitorFacturacion.java
+ com.cm.timovil2.bl.utilities.ServiceMonitorFacturacion
+ com.cm.timovil2.bl.utilities.ServiceMonitorFacturacion$MonitorFacturacionTask
+com/cm/timovil2/pref/Configuraciones.java
+ com.cm.timovil2.pref.Configuraciones
+com/cm/timovil2/dto/RemisionDTO.java
+ com.cm.timovil2.dto.RemisionDTO
+com/cm/timovil2/data/DetalleRemisionDAL.java
+ com.cm.timovil2.data.DetalleRemisionDAL
+com/cm/timovil2/dto/FormaPagoDTO.java
+ com.cm.timovil2.dto.FormaPagoDTO
+com/cm/timovil2/data/GestionComercialDAL.java
+ com.cm.timovil2.data.GestionComercialDAL
+com/cm/timovil2/bl/adapters/AdapterNoVentasPorFecha.java
+ com.cm.timovil2.bl.adapters.AdapterNoVentasPorFecha
+com/cm/timovil2/dto/VehiculoDTO.java
+ com.cm.timovil2.dto.VehiculoDTO
+com/cm/timovil2/proxy/ProxyFacturaCredito.java
+ com.cm.timovil2.proxy.ProxyFacturaCredito
+com/cm/timovil2/dto/GestionComercialDTO.java
+ com.cm.timovil2.dto.GestionComercialDTO
+com/cm/timovil2/backup/NoVentaPedidoBackUp.java
+ com.cm.timovil2.backup.NoVentaPedidoBackUp
+com/cm/timovil2/bl/utilities/zebra_datawedge/OnDataWedgeScannerDecodedData.java
+ com.cm.timovil2.bl.utilities.zebra_datawedge.OnDataWedgeScannerDecodedData
+com/cm/timovil2/bl/utilities/ServicePedidosCallcenter.java
+ com.cm.timovil2.bl.utilities.ServicePedidosCallcenter
+ com.cm.timovil2.bl.utilities.ServicePedidosCallcenter$1
+ com.cm.timovil2.bl.utilities.ServicePedidosCallcenter$ActualizadorDePedidos
+com/cm/timovil2/front/ActivityNoVentas.java
+ com.cm.timovil2.front.ActivityNoVentas
+ com.cm.timovil2.front.ActivityNoVentas$1
+ com.cm.timovil2.front.ActivityNoVentas$2
+ com.cm.timovil2.front.ActivityNoVentas$3
+ com.cm.timovil2.front.ActivityNoVentas$4
+ com.cm.timovil2.front.ActivityNoVentas$5
+ com.cm.timovil2.front.ActivityNoVentas$6
+ com.cm.timovil2.front.ActivityNoVentas$DescargaNoVentas
+com/cm/timovil2/backup/AbonoBackUp.java
+ com.cm.timovil2.backup.AbonoBackUp
+com/cm/timovil2/vehiculos/GastosVehiculoActivity.java
+ com.cm.timovil2.vehiculos.GastosVehiculoActivity
+ com.cm.timovil2.vehiculos.GastosVehiculoActivity$1
+ com.cm.timovil2.vehiculos.GastosVehiculoActivity$2
+ com.cm.timovil2.vehiculos.GastosVehiculoActivity$IdentificarEmpleado
+ com.cm.timovil2.vehiculos.GastosVehiculoActivity$generarMovimiento
+com/cm/timovil2/dto/GuardarMotivoNoVentaDTO.java
+ com.cm.timovil2.dto.GuardarMotivoNoVentaDTO
+com/cm/timovil2/bl/utilities/zebra_datawedge/DWScanner.java
+ com.cm.timovil2.bl.utilities.zebra_datawedge.DWScanner
+ com.cm.timovil2.bl.utilities.zebra_datawedge.DWScanner$1
+com/cm/timovil2/bl/adapters/AdapterClientes.java
+ com.cm.timovil2.bl.adapters.AdapterClientes
+ com.cm.timovil2.bl.adapters.AdapterClientes$1
+ com.cm.timovil2.bl.adapters.AdapterClientes$ViewHolder
+com/cm/timovil2/bl/calculus/CalculatorFactura.java
+ com.cm.timovil2.bl.calculus.CalculatorFactura
+com/cm/timovil2/data/RemisionDAL.java
+ com.cm.timovil2.data.RemisionDAL
+com/cm/timovil2/proxy/ProxyFormaPago.java
+ com.cm.timovil2.proxy.ProxyFormaPago
+com/cm/timovil2/gcm/TiMovil_GCM_Receiver.java
+ com.cm.timovil2.gcm.TiMovil_GCM_Receiver
+com/cm/timovil2/bl/adapters/AdapterImageSlide.java
+ com.cm.timovil2.bl.adapters.AdapterImageSlide
+com/cm/timovil2/dto/GuardarMotivoNoVentaPedidoDTO.java
+ com.cm.timovil2.dto.GuardarMotivoNoVentaPedidoDTO
+com/cm/timovil2/backup/NotaCreditoFacturaPorDevolucionBackUp.java
+ com.cm.timovil2.backup.NotaCreditoFacturaPorDevolucionBackUp
+com/cm/timovil2/location_service/AlarmReceiverTimovil.java
+ com.cm.timovil2.location_service.AlarmReceiverTimovil
+com/cm/timovil2/dto/ControlImeiDTO.java
+ com.cm.timovil2.dto.ControlImeiDTO
+com/cm/timovil2/bl/printers/btservice/print/PrintUtil.java
+ com.cm.timovil2.bl.printers.btservice.print.PrintUtil
+com/cm/timovil2/bl/utilities/FacturasDescargadasListener.java
+ com.cm.timovil2.bl.utilities.FacturasDescargadasListener
+com/cm/timovil2/front/ActivityMenuVendedor.java
+ com.cm.timovil2.front.ActivityMenuVendedor
+ com.cm.timovil2.front.ActivityMenuVendedor$1
+ com.cm.timovil2.front.ActivityMenuVendedor$2
+ com.cm.timovil2.front.ActivityMenuVendedor$EnviarPedidos
+com/cm/timovil2/backup/RemisionBackUp.java
+ com.cm.timovil2.backup.RemisionBackUp
+com/cm/timovil2/dto/ResumenVentasImpresionDTO.java
+ com.cm.timovil2.dto.ResumenVentasImpresionDTO
+com/cm/timovil2/location_service/LocationService.java
+ com.cm.timovil2.location_service.LocationService
+ com.cm.timovil2.location_service.LocationService$1
+ com.cm.timovil2.location_service.LocationService$MyLocationListener
+ com.cm.timovil2.location_service.LocationService$RegistrarUbicacion
+com/cm/timovil2/data/BDHelper.java
+ com.cm.timovil2.data.BDHelper
+com/cm/timovil2/front/ActivityComentarioFactura.java
+ com.cm.timovil2.front.ActivityComentarioFactura
+ com.cm.timovil2.front.ActivityComentarioFactura$1
+com/cm/timovil2/dto/EmpleadoDTO.java
+ com.cm.timovil2.dto.EmpleadoDTO
+com/cm/timovil2/bl/printers/btservice/print/BtService.java
+ com.cm.timovil2.bl.printers.btservice.print.BtService
+ com.cm.timovil2.bl.printers.btservice.print.BtService$AcceptThread
+ com.cm.timovil2.bl.printers.btservice.print.BtService$ConnectThread
+ com.cm.timovil2.bl.printers.btservice.print.BtService$ConnectedThread
+com/cm/timovil2/bl/utilities/OnRecyclerViewItemClickListener.java
+ com.cm.timovil2.bl.utilities.OnRecyclerViewItemClickListener
+com/cm/timovil2/front/ActivityNotasCredito.java
+ com.cm.timovil2.front.ActivityNotasCredito
+ com.cm.timovil2.front.ActivityNotasCredito$1
+ com.cm.timovil2.front.ActivityNotasCredito$2
+ com.cm.timovil2.front.ActivityNotasCredito$3
+ com.cm.timovil2.front.ActivityNotasCredito$4
+ com.cm.timovil2.front.ActivityNotasCredito$DescargaNotas
+com/cm/timovil2/bl/utilities/TaskVerificarFechaHoraWS.java
+ com.cm.timovil2.bl.utilities.TaskVerificarFechaHoraWS
+ com.cm.timovil2.bl.utilities.TaskVerificarFechaHoraWS$1
+com/cm/timovil2/sincro/SincroCredito.java
+ com.cm.timovil2.sincro.SincroCredito
+com/cm/timovil2/bl/utilities/FacturasDescargadasCallback.java
+ com.cm.timovil2.bl.utilities.FacturasDescargadasCallback
+com/cm/timovil2/front/ActivityUltimaFactura.java
+ com.cm.timovil2.front.ActivityUltimaFactura
+com/cm/timovil2/front/ActivityCrearRemision.java
+ com.cm.timovil2.front.ActivityCrearRemision
+ com.cm.timovil2.front.ActivityCrearRemision$1
+ com.cm.timovil2.front.ActivityCrearRemision$2
+ com.cm.timovil2.front.ActivityCrearRemision$3
+ com.cm.timovil2.front.ActivityCrearRemision$4
+ com.cm.timovil2.front.ActivityCrearRemision$5
+ com.cm.timovil2.front.ActivityCrearRemision$6
+ com.cm.timovil2.front.ActivityCrearRemision$7
+ com.cm.timovil2.front.ActivityCrearRemision$8
+ com.cm.timovil2.front.ActivityCrearRemision$ObtenerUltimaRemisionTask
+com/cm/timovil2/data/EntregadorDAL.java
+ com.cm.timovil2.data.EntregadorDAL
+com/cm/timovil2/gcm/TiMovil_GCM_Service.java
+ com.cm.timovil2.gcm.TiMovil_GCM_Service
+com/cm/timovil2/bl/printers/printer_v2/PrinterUtil.java
+ com.cm.timovil2.bl.printers.printer_v2.PrinterUtil
+com/cm/timovil2/bl/utilities/PageIndicator.java
+ com.cm.timovil2.bl.utilities.PageIndicator
+com/cm/timovil2/dto/ResumenRemisionesDTO.java
+ com.cm.timovil2.dto.ResumenRemisionesDTO
+com/cm/timovil2/data/DetalleNotaCreditoFacturaDAL.java
+ com.cm.timovil2.data.DetalleNotaCreditoFacturaDAL
+com/cm/timovil2/bl/printers/FinalPrinter.java
+ com.cm.timovil2.bl.printers.FinalPrinter
+com/cm/timovil2/bl/utilities/ReceiverSincrofacturas.java
+ com.cm.timovil2.bl.utilities.ReceiverSincrofacturas
+com/cm/timovil2/data/GuardarMotivoNoVentaPedidoDAL.java
+ com.cm.timovil2.data.GuardarMotivoNoVentaPedidoDAL
+com/cm/timovil2/bl/adapters/AdapterCreditos.java
+ com.cm.timovil2.bl.adapters.AdapterCreditos
+ com.cm.timovil2.bl.adapters.AdapterCreditos$1
+ com.cm.timovil2.bl.adapters.AdapterCreditos$2
+ com.cm.timovil2.bl.adapters.AdapterCreditos$ViewHolderFactura
+ com.cm.timovil2.bl.adapters.AdapterCreditos$ViewHolderFooter
+com/cm/timovil2/bl/printers/btservice/print/PrintQueue.java
+ com.cm.timovil2.bl.printers.btservice.print.PrintQueue
+com/cm/timovil2/dto/wsentities/MFact7.java
+ com.cm.timovil2.dto.wsentities.MFact7
+com/cm/timovil2/rest/NetWorkHelper.java
+ com.cm.timovil2.rest.NetWorkHelper
+com/cm/timovil2/data/DetallePedidoCallcenterDAL.java
+ com.cm.timovil2.data.DetallePedidoCallcenterDAL
+com/cm/timovil2/dto/PedidoCallcenterDTO.java
+ com.cm.timovil2.dto.PedidoCallcenterDTO
+com/cm/timovil2/data/CuentaCajaDAL.java
+ com.cm.timovil2.data.CuentaCajaDAL
+com/cm/timovil2/pref/SettingsActivity.java
+ com.cm.timovil2.pref.SettingsActivity
+ com.cm.timovil2.pref.SettingsActivity$1
+ com.cm.timovil2.pref.SettingsActivity$DataSyncPreferenceFragment
+ com.cm.timovil2.pref.SettingsActivity$GeneralPreferenceFragment
+ com.cm.timovil2.pref.SettingsActivity$NotificationPreferenceFragment

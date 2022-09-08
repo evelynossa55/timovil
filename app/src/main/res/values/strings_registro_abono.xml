@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lblFactura">Factura</string>
+    <string name="str_valor_abono">Valor abono</string>
+    <string name="str_cuenta">Cuenta</string>
+</resources>

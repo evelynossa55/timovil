@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lblPrecio">Precio</string>
+    <string name="str_buscar_producto">Buscar producto</string>
+    <string name="str_titulo_detalle_facturacion_activity">Producto</string>
+</resources>

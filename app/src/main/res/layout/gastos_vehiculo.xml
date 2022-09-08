@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/lblConcepto"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            style="@style/LabelTitulo" />
+
+        <Spinner
+            android:id="@+id/cboConceptos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/lblKilometraje"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            style="@style/LabelTitulo" />
+
+        <EditText
+            android:id="@+id/txtKilometraje"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:gravity="center_vertical"
+            android:inputType="number"
+            android:hint="@string/lblIngreseSuKilometraje"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/lblValor"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            style="@style/LabelTitulo" />
+
+        <EditText
+            android:id="@+id/txtValor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:gravity="center_vertical"
+            android:inputType="number"
+            android:hint="@string/lblIngreseElValor"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="@string/lblDescripcion"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:background="#f2f2f2"
+            android:padding="3dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            style="@style/LabelTitulo" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:id="@+id/txtDescripcion"
+            android:lines="3"
+            android:padding="3dp"
+            android:hint="@string/lblDescripcionHint"
+            android:background="#e1efea"
+            android:gravity="top|start"
+            android:maxLines="5"
+            android:scrollbars="vertical"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+        <Button
+            android:id="@+id/btnEnviar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#444"
+            android:text="@string/btnEnviar"
+            android:textColor="#FFFFFF"
+            android:layout_gravity="end"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+
+</ScrollView>

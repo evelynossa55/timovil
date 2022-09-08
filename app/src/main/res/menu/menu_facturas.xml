@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timovil="http://schemas.android.com/apk/res-auto">
+
+    <item
+        timovil:showAsAction="always"
+        android:icon="@drawable/ic_menu_opciones"
+        android:title="">
+        <menu>
+            <item android:id="@+id/mnuDescargarFacturasPendientes"
+                android:icon="@drawable/ic_descargar"
+                android:title="@string/mnu_descargar_pendientes"
+                timovil:showAsAction="withText"/>
+
+            <item android:id="@+id/mnuVerificarFacturas"
+                android:icon="@drawable/ic_verificar"
+                android:title="@string/mnuVerificarFacturas"
+                timovil:showAsAction="withText"/>
+
+            <item android:id="@+id/mnuResumenFacturas"
+                android:title="@string/mnuResumen"
+                android:icon="@drawable/ic_resumen"
+                timovil:showAsAction="withText"/>
+
+            <item android:id="@+id/mnuImprimirTodas"
+                android:title="@string/mnuImprimirTodas"
+                android:icon="@drawable/ic_imprimir"
+                timovil:showAsAction="withText"/>
+
+            <item android:id="@+id/mnuEliminarFacturas"
+                android:title="@string/mnuEliminar"
+                android:icon="@drawable/ic_eliminar"
+                timovil:showAsAction="withText"/>
+            <!-- <item android:id="@+id/mnuCerrarDia"
+                android:title="@string/mnuCerrarDia"
+                timovil:showAsAction="ifRoom|withText"/>
+                -->
+        </menu>
+    </item>
+</menu>

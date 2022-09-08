@@ -1,0 +1,779 @@
+-- Merging decision tree log ---
+provider#com.cm.timovil2.bl.utilities.GenericFileProvider
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:326:9-334:20
+	android:grantUriPermissions
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:330:13-47
+	android:authorities
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:328:13-80
+	android:exported
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:329:13-37
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:327:13-61
+manifest
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6c1f6557f719d9f9f7faf2274a06aaaa\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\92e4011dae64b73dccd4e472277e544f\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\5cba739f809f47a8fdb9935c78a8f460\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\db456b07b77382e0da03bbbd936b2adc\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\24be29d2754c46b9a2fa4fad6edc0a4f\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f9c9e684418ec9b1e0dd1eb1cfdd0b24\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\c9910d8053fc9a86819b4fbbc5fe8a6d\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4dc863fcc06653fc34a7ccafae975ee2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\bc602084a36d9d0257417033a01df0fa\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\1c68a73cf4f7d96c9f4bb04567c44f83\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4b59f3b012d425ca56448a48f41a634c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\8b44859e7cfa1d6621633c8036e91e6c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ee1c96cb5bd612fda3b564c8f34c22f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b2b630d04074bba39b1315b7ca26ee91\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b52ebaa6c6d3eb7f60b07796a8e0a69c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\41b96249b934b22a8f81a50484b318d2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\3ef3289e1e266e5daef3a552841ac825\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\a5cf2e7ff2e8483a210c2a5b2f0d588d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\a013032f85fc188d34180c1e89303ca4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\39e2919f11c83a026c75a869b48292cd\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6777f3f3c34a942c5a83d1da43ccde68\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\22e73412359fadbd79864d2e5a45af54\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\50715da5970e526acb392a94c8024162\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f2654d7d13c4103ae70f41cc5af64dd8\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\77fe04f177d6e613c88d139e34887cad\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ec52a42b3809414af2a33e276a3bdd03\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\9453d41128f8e0fb7849f5f900959886\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\9b91c9492f5299905cedaf2833c424f0\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f475b1aca65a6dfac6c6b64592126ca9\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\5aca172907b38f4505a81ce0bf7dff3b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\85244c6a0c7c59e09cbdeb28ffacbeca\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\d395751e062dbe21fe03fb9d1d01fe63\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\d9e6710de258e531a10de267c6cf18be\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\95eecdab27b5a00ed4501605d6b74b63\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\3263bac927007ce1f800d4ab4cda2ceb\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4380d4906939f6acde11e6c96266f2c4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\928a5ea850e0d33facd4f965cdad7851\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\2874c10b675d2f75a5d005c2029af88d\jetified-crashlytics-core-2.6.3\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\467458f47d01d93b75b009bc786fdea2\jetified-beta-1.2.9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\acef88654ef5af490b983beec8899a55\jetified-answers-1.4.2\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\93190042f0f3d03b45fae77aad6d1202\jetified-fabric-1.4.3\AndroidManifest.xml:22:1-33:12
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+	package
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:1-348:12
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:6:5-8:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:24:5-26:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:7:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:9:5-70
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:32:5-34:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:32:5-34:36
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:9:19-67
+uses-permission#android.permission.INTERNET
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\2874c10b675d2f75a5d005c2029af88d\jetified-crashlytics-core-2.6.3\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\2874c10b675d2f75a5d005c2029af88d\jetified-crashlytics-core-2.6.3\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\467458f47d01d93b75b009bc786fdea2\jetified-beta-1.2.9\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\467458f47d01d93b75b009bc786fdea2\jetified-beta-1.2.9\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\acef88654ef5af490b983beec8899a55\jetified-answers-1.4.2\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\acef88654ef5af490b983beec8899a55\jetified-answers-1.4.2\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\93190042f0f3d03b45fae77aad6d1202\jetified-fabric-1.4.3\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\93190042f0f3d03b45fae77aad6d1202\jetified-fabric-1.4.3\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.CAMERA
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:17:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:17:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:18:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:22:22-77
+uses-feature#android.hardware.location.gps
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:25:9-53
+application
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:28:5-346:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\92e4011dae64b73dccd4e472277e544f\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\92e4011dae64b73dccd4e472277e544f\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f9c9e684418ec9b1e0dd1eb1cfdd0b24\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f9c9e684418ec9b1e0dd1eb1cfdd0b24\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\1c68a73cf4f7d96c9f4bb04567c44f83\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\1c68a73cf4f7d96c9f4bb04567c44f83\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\8b44859e7cfa1d6621633c8036e91e6c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\8b44859e7cfa1d6621633c8036e91e6c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ee1c96cb5bd612fda3b564c8f34c22f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ee1c96cb5bd612fda3b564c8f34c22f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ec52a42b3809414af2a33e276a3bdd03\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ec52a42b3809414af2a33e276a3bdd03\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\9453d41128f8e0fb7849f5f900959886\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\9453d41128f8e0fb7849f5f900959886\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\2874c10b675d2f75a5d005c2029af88d\jetified-crashlytics-core-2.6.3\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\2874c10b675d2f75a5d005c2029af88d\jetified-crashlytics-core-2.6.3\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\467458f47d01d93b75b009bc786fdea2\jetified-beta-1.2.9\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\467458f47d01d93b75b009bc786fdea2\jetified-beta-1.2.9\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\acef88654ef5af490b983beec8899a55\jetified-answers-1.4.2\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\acef88654ef5af490b983beec8899a55\jetified-answers-1.4.2\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\93190042f0f3d03b45fae77aad6d1202\jetified-fabric-1.4.3\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\93190042f0f3d03b45fae77aad6d1202\jetified-fabric-1.4.3\AndroidManifest.xml:31:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ec52a42b3809414af2a33e276a3bdd03\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:34:9-36
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:33:9-41
+	android:windowSoftInputMode
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:38:9-64
+	android:fullBackupContent
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:31:9-54
+	android:uiOptions
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:36:9-53
+	android:icon
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:32:9-47
+	android:allowBackup
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:35:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:29:9-35
+activity#com.cm.timovil2.front.ActivityLogin
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:39:9-48:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:40:13-48
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:42:13-47:29
+action#android.intent.action.MAIN
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:43:25-66
+action#android.intent.action.VIEW
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.cm.timovil2.front.ActivityUltimaFactura
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:51:13-42
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:50:13-56
+activity#com.cm.timovil2.front.ActivityUltimaRemision
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:56:13-42
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:55:13-57
+activity#com.cm.timovil2.front.ActivityConfigRuta
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:59:9-63:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:62:13-60
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:61:13-53
+activity#com.cm.timovil2.front.ActivityMenuVendedor
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:64:9-69:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:66:13-55
+	android:theme
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:67:13-72
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:65:13-55
+activity#com.cm.timovil2.front.ActivityConfigImpresora
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:70:9-73:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:72:13-62
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:71:13-58
+activity#com.cm.timovil2.front.ActivityRutero
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:74:9-81:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:76:13-49
+	android:uiOptions
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:77:13-37
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:75:13-49
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:78:13-80:78
+	android:value
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:80:17-75
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:79:17-63
+activity#com.cm.timovil2.front.ActivityInventario
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:82:9-90:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:84:13-39
+	android:noHistory
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:85:13-38
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:83:13-53
+activity#com.cm.timovil2.front.ActivityFacturacion
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:91:9-93:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:92:13-54
+activity#com.cm.timovil2.front.ActivityCrearRemision
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:94:9-96:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:96:13-49
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:95:13-56
+activity#com.cm.timovil2.front.ActivityRemisiones
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:97:9-103:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:98:13-53
+activity#com.cm.timovil2.front.ActivityRemision
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:104:9-110:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:105:13-51
+activity#com.cm.timovil2.front.ActivityDetalleFacturacion
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:111:9-115:40
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:113:13-76
+	android:uiOptions
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:115:13-37
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:112:13-61
+activity#com.cm.timovil2.front.ActivityCargaDatos
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:116:9-123:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:118:13-53
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:117:13-53
+activity#com.cm.timovil2.front.ActivityFiltroProducto
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:124:9-127:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:126:13-56
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:125:13-57
+activity#com.cm.timovil2.front.ActivityFacturas
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:128:9-135:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:131:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:130:13-37
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:129:13-51
+activity#com.cm.timovil2.front.ActivityCreditos
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:136:9-143:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:139:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:138:13-37
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:137:13-51
+activity#com.cm.timovil2.front.ActivityRegistroAbono
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:144:9-148:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:148:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:146:13-43
+	android:noHistory
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:147:13-37
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:145:13-56
+activity#com.cm.timovil2.front.ActivityComentarioFactura
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:149:9-151:61
+	android:theme
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:151:13-58
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:150:13-60
+activity#com.cm.timovil2.front.ActivityCartera
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:152:9-155:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:155:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:154:13-36
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:153:13-50
+activity#com.cm.timovil2.front.ActivityFactura
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:156:9-163:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:159:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:158:13-36
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:157:13-50
+activity#com.cm.timovil2.front.ActivityConfirmarPass
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:164:9-167:61
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:166:13-34
+	android:theme
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:167:13-58
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:165:13-56
+activity#com.cm.timovil2.front.ActivitySeleccionarBodega
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:168:9-171:61
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:170:13-36
+	android:theme
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:171:13-58
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:169:13-60
+activity#com.cm.timovil2.front.ActivityResumenDiario
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:172:9-180:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:176:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:174:13-42
+	android:noHistory
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:175:13-38
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:173:13-56
+activity#com.cm.timovil2.vehiculos.GastosVehiculoActivity
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:181:9-188:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:184:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:183:13-35
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:182:13-61
+activity#com.cm.timovil2.vehiculos.IdentificarEmpleadoActivity
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:189:9-196:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:192:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:191:13-35
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:190:13-66
+activity#com.cm.timovil2.front.ActivityNoVenta
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:197:9-200:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:200:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:199:13-37
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:198:13-50
+activity#com.cm.timovil2.front.ActivityGestionComercial
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:201:9-204:52
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:204:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:203:13-46
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:202:13-59
+activity#com.cm.timovil2.front.ActivityGestionesComerciales
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:205:9-212:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:208:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:207:13-50
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:206:13-63
+activity#com.cm.timovil2.front.ActivityVerGestionComercial
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:213:9-220:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:216:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:215:13-50
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:214:13-62
+activity#com.cm.timovil2.front.ActivityCamera
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:221:9-228:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:224:13-50
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:223:13-35
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:222:13-49
+activity#com.cm.timovil2.front.ActivityPedidos
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:229:9-236:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:232:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:231:13-36
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:230:13-50
+activity#com.cm.timovil2.front.ActivityNoVentas
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:237:9-244:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:240:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:239:13-38
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:238:13-51
+activity#com.cm.timovil2.front.ActivityRuteroAsesor
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:245:9-252:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:248:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:247:13-35
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:246:13-55
+activity#com.cm.timovil2.front.ActivityHistorialGestionesComerciales
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:253:9-260:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:256:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:255:13-35
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:254:13-72
+activity#com.cm.timovil2.front.ActivityNotasCredito
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:261:9-268:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:264:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:263:13-42
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:262:13-55
+activity#com.cm.timovil2.front.ActivityNotaCredito
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:269:9-276:20
+	android:screenOrientation
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:272:13-49
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:271:13-41
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:270:13-54
+service#com.cm.timovil2.bl.utilities.ServiceSincrofacturas
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:278:9-71
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:278:18-68
+receiver#com.cm.timovil2.bl.utilities.ReceiverSincrofacturas
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:280:9-286:20
+	android:enabled
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:282:13-35
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:281:13-64
+intent-filter#action:name:com.cm.timovil.SINCRO_REPORT
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:283:13-285:29
+action#com.cm.timovil.SINCRO_REPORT
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:284:17-71
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:284:25-68
+service#com.cm.timovil2.bl.utilities.ControlImeiService
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:288:9-68
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:288:18-65
+service#com.cm.timovil2.bl.utilities.ServiceMonitorFacturacion
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:289:9-75
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:289:18-72
+service#com.cm.timovil2.bl.utilities.ServicePedidosCallcenter
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:290:9-74
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:290:18-71
+service#com.cm.timovil2.bl.printers.btservice.BtService
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:291:9-68
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:291:18-65
+service#com.cm.timovil2.location_service.LocationService
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:292:9-296:51
+	android:process
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:296:13-48
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:295:13-45
+	android:exported
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:294:13-37
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:293:13-61
+service#com.cm.timovil2.location_service.LocationJobService
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:297:9-299:72
+	android:permission
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:299:13-69
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:298:13-64
+receiver#com.cm.timovil2.location_service.AlarmReceiverTimovil
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:301:9-303:51
+	android:process
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:303:13-48
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:302:13-66
+receiver#com.cm.timovil2.location_service.LocationActiveReceiver
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:304:9-310:20
+	android:enabled
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:306:13-35
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:305:13-68
+intent-filter#action:name:com.cm.timovil2.location_service.LOCATION_ACTIVE
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:307:13-309:29
+action#com.cm.timovil2.location_service.LOCATION_ACTIVE
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:308:17-91
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:308:25-88
+meta-data#io.fabric.ApiKey
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:335:9-337:72
+	android:value
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:337:13-69
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:336:13-44
+activity#com.cm.timovil2.pref.Configuraciones
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:339:9-345:20
+	android:label
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:341:13-60
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:340:13-49
+uses-sdk
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6c1f6557f719d9f9f7faf2274a06aaaa\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6c1f6557f719d9f9f7faf2274a06aaaa\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\92e4011dae64b73dccd4e472277e544f\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\92e4011dae64b73dccd4e472277e544f\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\5cba739f809f47a8fdb9935c78a8f460\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\5cba739f809f47a8fdb9935c78a8f460\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\db456b07b77382e0da03bbbd936b2adc\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\db456b07b77382e0da03bbbd936b2adc\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\24be29d2754c46b9a2fa4fad6edc0a4f\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\24be29d2754c46b9a2fa4fad6edc0a4f\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f9c9e684418ec9b1e0dd1eb1cfdd0b24\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f9c9e684418ec9b1e0dd1eb1cfdd0b24\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\c9910d8053fc9a86819b4fbbc5fe8a6d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\c9910d8053fc9a86819b4fbbc5fe8a6d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4dc863fcc06653fc34a7ccafae975ee2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4dc863fcc06653fc34a7ccafae975ee2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\bc602084a36d9d0257417033a01df0fa\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\bc602084a36d9d0257417033a01df0fa\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:19:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\1c68a73cf4f7d96c9f4bb04567c44f83\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\1c68a73cf4f7d96c9f4bb04567c44f83\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4b59f3b012d425ca56448a48f41a634c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4b59f3b012d425ca56448a48f41a634c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\8b44859e7cfa1d6621633c8036e91e6c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\8b44859e7cfa1d6621633c8036e91e6c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ee1c96cb5bd612fda3b564c8f34c22f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ee1c96cb5bd612fda3b564c8f34c22f5\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b2b630d04074bba39b1315b7ca26ee91\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b2b630d04074bba39b1315b7ca26ee91\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b52ebaa6c6d3eb7f60b07796a8e0a69c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b52ebaa6c6d3eb7f60b07796a8e0a69c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\41b96249b934b22a8f81a50484b318d2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\41b96249b934b22a8f81a50484b318d2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\3ef3289e1e266e5daef3a552841ac825\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\3ef3289e1e266e5daef3a552841ac825\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\a5cf2e7ff2e8483a210c2a5b2f0d588d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\a5cf2e7ff2e8483a210c2a5b2f0d588d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\a013032f85fc188d34180c1e89303ca4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\a013032f85fc188d34180c1e89303ca4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\39e2919f11c83a026c75a869b48292cd\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\39e2919f11c83a026c75a869b48292cd\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6777f3f3c34a942c5a83d1da43ccde68\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6777f3f3c34a942c5a83d1da43ccde68\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\22e73412359fadbd79864d2e5a45af54\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\22e73412359fadbd79864d2e5a45af54\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\50715da5970e526acb392a94c8024162\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\50715da5970e526acb392a94c8024162\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f2654d7d13c4103ae70f41cc5af64dd8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f2654d7d13c4103ae70f41cc5af64dd8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\77fe04f177d6e613c88d139e34887cad\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\77fe04f177d6e613c88d139e34887cad\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ec52a42b3809414af2a33e276a3bdd03\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\ec52a42b3809414af2a33e276a3bdd03\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\9453d41128f8e0fb7849f5f900959886\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\9453d41128f8e0fb7849f5f900959886\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\9b91c9492f5299905cedaf2833c424f0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\9b91c9492f5299905cedaf2833c424f0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f475b1aca65a6dfac6c6b64592126ca9\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\f475b1aca65a6dfac6c6b64592126ca9\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\5aca172907b38f4505a81ce0bf7dff3b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\5aca172907b38f4505a81ce0bf7dff3b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\85244c6a0c7c59e09cbdeb28ffacbeca\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\85244c6a0c7c59e09cbdeb28ffacbeca\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\d395751e062dbe21fe03fb9d1d01fe63\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\d395751e062dbe21fe03fb9d1d01fe63\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\d9e6710de258e531a10de267c6cf18be\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\d9e6710de258e531a10de267c6cf18be\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\95eecdab27b5a00ed4501605d6b74b63\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\95eecdab27b5a00ed4501605d6b74b63\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\3263bac927007ce1f800d4ab4cda2ceb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\3263bac927007ce1f800d4ab4cda2ceb\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4380d4906939f6acde11e6c96266f2c4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\4380d4906939f6acde11e6c96266f2c4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\928a5ea850e0d33facd4f965cdad7851\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\928a5ea850e0d33facd4f965cdad7851\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\2874c10b675d2f75a5d005c2029af88d\jetified-crashlytics-core-2.6.3\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\2874c10b675d2f75a5d005c2029af88d\jetified-crashlytics-core-2.6.3\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\467458f47d01d93b75b009bc786fdea2\jetified-beta-1.2.9\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.9] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\467458f47d01d93b75b009bc786fdea2\jetified-beta-1.2.9\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\acef88654ef5af490b983beec8899a55\jetified-answers-1.4.2\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.2] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\acef88654ef5af490b983beec8899a55\jetified-answers-1.4.2\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\93190042f0f3d03b45fae77aad6d1202\jetified-fabric-1.4.3\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.3] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\93190042f0f3d03b45fae77aad6d1202\jetified-fabric-1.4.3\AndroidManifest.xml:27:5-43
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:331:13-333:54
+	android:resource
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:333:17-51
+	android:name
+		ADDED from D:\Proyectos\timovil-app-master\app\src\main\AndroidManifest.xml:332:17-67
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\99c27951b1483bd35f05ad6d4e5120a8\jetified-zxing-android-embedded-3.2.0\AndroidManifest.xml:47:13-74
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.4] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\b26652c9c556b72e405294fb13a7eae4\jetified-crashlytics-2.9.4\AndroidManifest.xml:13:13-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\862c218ba700ad3936e5b4629b0f5a32\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\EvelynAndreaOssa\.gradle\caches\transforms-2\files-2.1\6043c055e113ebaf9e67e1b9259ed322\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

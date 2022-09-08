@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lblNumeroFactura"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#0076b8"/>
+
+            <TextView
+                android:id="@+id/tv_numero_factura"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/lblFechaVenta"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:textColor="#0076b8"/>
+
+            <TextView
+                android:id="@+id/tv_fecha_venta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearlayoutDetalleUlt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#cccccc"
+            android:padding="3dp"
+            android:orientation="vertical"
+            android:minHeight="20dp"
+            android:showDividers="" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:timovil="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menuAceptar"
+        android:title="@string/lblAceptar" 
+        timovil:showAsAction="always|withText"
+        android:icon="@drawable/round_check_circle_white_36">
+    </item>
+
+    <item
+        android:id="@+id/mnuFacturaReadBarCode"
+        timovil:showAsAction="ifRoom|withText"
+        android:title="@string/codigo_barras"
+        android:visible="true"
+        android:icon="@drawable/round_control_camera_white_36">
+    </item>
+
+    <item android:id="@+id/menuBuscarProducto" 
+        timovil:showAsAction="ifRoom|withText"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/str_buscar_producto">
+    </item>
+
+</menu>

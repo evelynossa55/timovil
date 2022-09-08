@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_gravity="center"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="8dp"
+    card_view:cardCornerRadius="4dp">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+       <TextView
+           android:id="@+id/lblNombreProducto"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/lblProducto"
+           android:textStyle="bold"
+           android:textColor="@color/white"
+           android:textSize="13sp"
+           android:background="@color/blue3"
+           android:ellipsize="end"
+           android:maxLines="1"
+           android:gravity="center"/>
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:layout_marginLeft="4dp"
+           android:layout_marginRight="4dp">
+
+           <LinearLayout
+               android:orientation="horizontal"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+               <TextView
+                   android:layout_width="92dp"
+                   android:layout_height="wrap_content"
+                   android:textStyle="bold"
+                   android:text="Código: "/>
+
+               <TextView
+                   android:id="@+id/tv_codigo"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textStyle="normal"
+                   android:text="AS123"/>
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:orientation="horizontal"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+               <TextView
+                   android:layout_width="92dp"
+                   android:layout_height="wrap_content"
+                   android:textStyle="bold"
+                   android:text="Bodega: "/>
+
+               <TextView
+                   android:id="@+id/tv_bodega"
+                   android:layout_width="40dp"
+                   android:layout_height="wrap_content"
+                   android:textStyle="normal"
+                   android:text="A1"/>
+
+               <TextView
+                   android:layout_width="80dp"
+                   android:layout_height="wrap_content"
+                   android:textStyle="bold"
+                   android:text="Stock: "/>
+
+               <TextView
+                   android:id="@+id/tv_stock"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textStyle="normal"
+                   android:text="10000"/>
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:orientation="horizontal"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+               <TextView
+                   android:layout_width="92dp"
+                   android:layout_height="wrap_content"
+                   android:textStyle="bold"
+                   android:text="Devoluciones: "/>
+
+               <TextView
+                   android:id="@+id/tv_dev"
+                   android:layout_width="40dp"
+                   android:layout_height="wrap_content"
+                   android:textStyle="normal"
+                   android:text="0"/>
+
+               <TextView
+                   android:layout_width="80dp"
+                   android:layout_height="wrap_content"
+                   android:textStyle="bold"
+                   android:text="Rotaciones: "/>
+
+               <TextView
+                   android:id="@+id/tv_rot"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textStyle="normal"
+                   android:text="0"/>
+
+           </LinearLayout>
+
+           <LinearLayout
+               android:orientation="horizontal"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+               <TextView
+                   android:layout_width="92dp"
+                   android:layout_height="wrap_content"
+                   android:minWidth="60dp"
+                   android:textStyle="bold"
+                   android:text="Ventas: "/>
+
+               <TextView
+                   android:id="@+id/tv_ventas"
+                   android:layout_width="40dp"
+                   android:layout_height="wrap_content"
+                   android:textStyle="normal"
+                   android:text="0"/>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textStyle="bold"
+                   android:text="Vlr unitario: "/>
+
+               <TextView
+                   android:id="@+id/tv_vlru"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textStyle="normal"
+                   android:textSize="12sp"
+                   android:text="$62,052.000.00"/>
+
+           </LinearLayout>
+
+       </LinearLayout>
+
+   </LinearLayout>
+
+</androidx.cardview.widget.CardView>
